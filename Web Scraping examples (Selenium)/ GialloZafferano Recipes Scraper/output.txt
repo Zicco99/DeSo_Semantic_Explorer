@@ -1,0 +1,4700 @@
+{
+    "antipasti": [
+        {
+            "name": "Guacamole",
+            "link": "https://ricette.giallozafferano.it/Guacamole.html"
+        },
+        {
+            "name": "Hummus",
+            "link": "https://ricette.giallozafferano.it/Hummus.html"
+        },
+        {
+            "name": "Vitello tonnato",
+            "link": "https://ricette.giallozafferano.it/Vitello-tonnato.html"
+        },
+        {
+            "name": "Polpette di melanzane",
+            "link": "https://ricette.giallozafferano.it/polpette-di-melanzane.html"
+        },
+        {
+            "name": "Focaccia (f\u00fcgassa) alla genovese",
+            "link": "https://ricette.giallozafferano.it/Focaccia-fugassa-alla-genovese.html"
+        },
+        {
+            "name": "Polpettine di tonno e ricotta",
+            "link": "https://ricette.giallozafferano.it/Polpettine-di-tonno-e-ricotta.html"
+        },
+        {
+            "name": "Ravioli cinesi al vapore",
+            "link": "https://ricette.giallozafferano.it/Ravioli-cinesi-al-vapore.html"
+        },
+        {
+            "name": "Arancini di riso",
+            "link": "https://ricette.giallozafferano.it/Arancini-di-riso.html"
+        },
+        {
+            "name": "Involtini primavera",
+            "link": "https://ricette.giallozafferano.it/Involtini-primavera.html"
+        },
+        {
+            "name": "Panzerotti (calzoni) fritti",
+            "link": "https://ricette.giallozafferano.it/Panzerotti-calzoni-fritti.html"
+        },
+        {
+            "name": "Mozzarella in carrozza",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-in-carrozza.html"
+        },
+        {
+            "name": "Piadina Romagnola",
+            "link": "https://ricette.giallozafferano.it/Piadina-Romagnola.html"
+        },
+        {
+            "name": "Involtini di melanzane",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-melanzane.html"
+        },
+        {
+            "name": "Caponata",
+            "link": "https://ricette.giallozafferano.it/Caponata.html"
+        },
+        {
+            "name": "Polpette di zucchine",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-zucchine.html"
+        },
+        {
+            "name": "Fiori di zucca in pastella",
+            "link": "https://ricette.giallozafferano.it/Fiori-di-zucca-in-pastella.html"
+        },
+        {
+            "name": "Insalata di polpo prezzemolata",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-polpo-prezzemolata.html"
+        },
+        {
+            "name": "Crocchette di patate",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate.html"
+        },
+        {
+            "name": "Torta salata di melanzane",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-di-melanzane.html"
+        },
+        {
+            "name": "Cozze alla tarantina",
+            "link": "https://ricette.giallozafferano.it/Cozze-alla-tarantina.html"
+        },
+        {
+            "name": "Impepata di cozze",
+            "link": "https://ricette.giallozafferano.it/Impepata-di-cozze.html"
+        },
+        {
+            "name": "Rotolini di zucchine con crudo e robiola",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-zucchine-con-crudo-e-robiola.html"
+        },
+        {
+            "name": "Capesante gratinate",
+            "link": "https://ricette.giallozafferano.it/Capesante-gratinate.html"
+        },
+        {
+            "name": "Cozze gratinate",
+            "link": "https://ricette.giallozafferano.it/Cozze-gratinate.html"
+        },
+        {
+            "name": "Quiche di zucchine",
+            "link": "https://ricette.giallozafferano.it/Quiche-di-zucchine.html"
+        },
+        {
+            "name": "Rotolo di frittata farcito",
+            "link": "https://ricette.giallozafferano.it/Rotolo-di-frittata-farcito.html"
+        },
+        {
+            "name": "Frittelle di zucchine",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-zucchine.html"
+        },
+        {
+            "name": "Pomodorini confit",
+            "link": "https://ricette.giallozafferano.it/Pomodori-confit.html"
+        },
+        {
+            "name": "Pasta Sfoglia",
+            "link": "https://ricette.giallozafferano.it/Pasta-Sfoglia.html"
+        },
+        {
+            "name": "Insalata russa",
+            "link": "https://ricette.giallozafferano.it/Insalata-russa.html"
+        },
+        {
+            "name": "Nugget di pollo",
+            "link": "https://ricette.giallozafferano.it/Nuggets-di-pollo.html"
+        },
+        {
+            "name": "Torta rustica salata",
+            "link": "https://ricette.giallozafferano.it/Torta-rustica-salata.html"
+        },
+        {
+            "name": "Pizzette rosse",
+            "link": "https://ricette.giallozafferano.it/Pizzette-rosse.html"
+        },
+        {
+            "name": "Cornetti salati",
+            "link": "https://ricette.giallozafferano.it/Cornetti-salati.html"
+        },
+        {
+            "name": "Polpette di spinaci e ricotta",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-spinaci-e-ricotta.html"
+        },
+        {
+            "name": "Ravioli di carne giapponesi (Gyoza)",
+            "link": "https://ricette.giallozafferano.it/Ravioli-di-carne-giapponesi-Gyoza.html"
+        },
+        {
+            "name": "Insalata di mare",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-mare.html"
+        },
+        {
+            "name": "Focaccia con pomodorini e origano",
+            "link": "https://ricette.giallozafferano.it/Focaccia-con-pomodorini-e-origano.html"
+        },
+        {
+            "name": "Panzanella",
+            "link": "https://ricette.giallozafferano.it/Panzanella.html"
+        },
+        {
+            "name": "Polpette di patate",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-patate.html"
+        },
+        {
+            "name": "Gnocco fritto",
+            "link": "https://ricette.giallozafferano.it/Gnocco-fritto.html"
+        },
+        {
+            "name": "Falafel di ceci (Felafel)",
+            "link": "https://ricette.giallozafferano.it/Felafel-Falafel.html"
+        },
+        {
+            "name": "Polpette di pesce",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-pesce.html"
+        },
+        {
+            "name": "Involtini di melanzane alla mediterranea",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-melanzane-alla-mediterranea.html"
+        },
+        {
+            "name": "Muffin salati con piselli e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Muffin-salati-con-piselli-e-prosciutto.html"
+        },
+        {
+            "name": "Pizzette di sfoglia",
+            "link": "https://ricette.giallozafferano.it/Pizzette-di-sfoglia.html"
+        },
+        {
+            "name": "Polpette di ceci",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-ceci.html"
+        },
+        {
+            "name": "Cipolle di Tropea caramellate",
+            "link": "https://ricette.giallozafferano.it/Cipolle-di-Tropea-caramellate.html"
+        },
+        {
+            "name": "Polpette di pane",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-pane.html"
+        },
+        {
+            "name": "Torta di patate e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Torta-di-patate-e-prosciutto.html"
+        },
+        {
+            "name": "Zucchine a scapece",
+            "link": "https://ricette.giallozafferano.it/Zucchine-a-scapece.html"
+        },
+        {
+            "name": "Melanzane al forno",
+            "link": "https://ricette.giallozafferano.it/Melanzane-al-forno.html"
+        },
+        {
+            "name": "Frittata di zucchine",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-zucchine.html"
+        },
+        {
+            "name": "Gamberi alla catalana",
+            "link": "https://ricette.giallozafferano.it/Gamberi-alla-catalana.html"
+        },
+        {
+            "name": "Feta al forno",
+            "link": "https://ricette.giallozafferano.it/Feta-al-forno.html"
+        },
+        {
+            "name": "Croque monsieur",
+            "link": "https://ricette.giallozafferano.it/Croque-monsieur.html"
+        },
+        {
+            "name": "Taralli",
+            "link": "https://ricette.giallozafferano.it/Taralli.html"
+        },
+        {
+            "name": "Torta 7 vasetti salata",
+            "link": "https://ricette.giallozafferano.it/Torta-7-vasetti-salata.html"
+        },
+        {
+            "name": "Cocktail di gamberetti",
+            "link": "https://ricette.giallozafferano.it/Cocktail-di-gamberetti.html"
+        },
+        {
+            "name": "Cozze alla marinara",
+            "link": "https://ricette.giallozafferano.it/Cozze-alla-marinara.html"
+        },
+        {
+            "name": "Tartare di salmone con crema di avocado e mandorle tostate",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-salmone-con-crema-di-avocado-e-mandorle-tostate.html"
+        },
+        {
+            "name": "Peperoncini piccanti ripieni di tonno, alici e capperi",
+            "link": "https://ricette.giallozafferano.it/Peperoncini-piccanti-ripieni-di-tonno-alici-e-capperi.html"
+        },
+        {
+            "name": "Naan",
+            "link": "https://ricette.giallozafferano.it/Naan.html"
+        },
+        {
+            "name": "Pomodori ripieni di tonno",
+            "link": "https://ricette.giallozafferano.it/Pomodori-ripieni-di-tonno.html"
+        },
+        {
+            "name": "Rotolo di mozzarella farcito",
+            "link": "https://ricette.giallozafferano.it/Rotolo-di-mozzarella-farcito.html"
+        },
+        {
+            "name": "Casatiello napoletano",
+            "link": "https://ricette.giallozafferano.it/Casatiello-napoletano.html"
+        },
+        {
+            "name": "Babaganoush",
+            "link": "https://ricette.giallozafferano.it/Babaganoush.html"
+        },
+        {
+            "name": "Uova in camicia",
+            "link": "https://ricette.giallozafferano.it/Uova-in-camicia.html"
+        },
+        {
+            "name": "Polpette di zucchine al forno",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-zucchine-al-forno.html"
+        },
+        {
+            "name": "Frittelle croccanti di patate",
+            "link": "https://ricette.giallozafferano.it/Frittelle-croccanti-di-patate.html"
+        },
+        {
+            "name": "Plumcake salato",
+            "link": "https://ricette.giallozafferano.it/Plumcake-salato.html"
+        },
+        {
+            "name": "Peperoni con la mollica",
+            "link": "https://ricette.giallozafferano.it/Peperoni-con-la-mollica.html"
+        },
+        {
+            "name": "Corn dog",
+            "link": "https://ricette.giallozafferano.it/Corn-dog.html"
+        },
+        {
+            "name": "Polpette di zucchine e patate",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-zucchine-e-patate.html"
+        },
+        {
+            "name": "Crescentine o tigelle",
+            "link": "https://ricette.giallozafferano.it/Crescentine-o-tigelle.html"
+        },
+        {
+            "name": "Torta salata di verdure",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-di-verdure.html"
+        },
+        {
+            "name": "Salvia fritta in pastella",
+            "link": "https://ricette.giallozafferano.it/Salvia-fritta-in-pastella.html"
+        },
+        {
+            "name": "Rustici leccesi",
+            "link": "https://ricette.giallozafferano.it/Rustici-leccesi.html"
+        },
+        {
+            "name": "Cotoletta di zucchine e scamorza",
+            "link": "https://ricette.giallozafferano.it/Cotoletta-di-zucchine-e-scamorza.html"
+        },
+        {
+            "name": "Muffin salati con ricotta e zucchine",
+            "link": "https://ricette.giallozafferano.it/Muffin-salati-con-ricotta-e-zucchine.html"
+        },
+        {
+            "name": "Sformatini di spinaci",
+            "link": "https://ricette.giallozafferano.it/Sformatini-di-spinaci.html"
+        },
+        {
+            "name": "Gazpacho andaluso",
+            "link": "https://ricette.giallozafferano.it/Gazpacho-andaluso.html"
+        },
+        {
+            "name": "Polipetti Affogati",
+            "link": "https://ricette.giallozafferano.it/Polipetti-Affogati.html"
+        },
+        {
+            "name": "Cotolette di melanzane",
+            "link": "https://ricette.giallozafferano.it/Cotolette-di-melanzane.html"
+        },
+        {
+            "name": "Polenta fritta",
+            "link": "https://ricette.giallozafferano.it/Polenta-chips.html"
+        },
+        {
+            "name": "Baccal\u00e0 mantecato alla veneziana",
+            "link": "https://ricette.giallozafferano.it/Baccala-mantecato-alla-veneziana.html"
+        },
+        {
+            "name": "Mozzarella fritta ",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-fritta.html"
+        },
+        {
+            "name": "Frittata",
+            "link": "https://ricette.giallozafferano.it/Frittata.html"
+        },
+        {
+            "name": "Tempura",
+            "link": "https://ricette.giallozafferano.it/Tempura.html"
+        },
+        {
+            "name": "Pasta bris\u00e8",
+            "link": "https://ricette.giallozafferano.it/Pasta-brise.html"
+        },
+        {
+            "name": "Empanadas argentine",
+            "link": "https://ricette.giallozafferano.it/Empanadas-argentine.html"
+        },
+        {
+            "name": "Anelli di cipolla in pastella",
+            "link": "https://ricette.giallozafferano.it/Anelli-di-cipolla-in-pastella.html"
+        },
+        {
+            "name": "Saut\u00e8 di cozze e vongole",
+            "link": "https://ricette.giallozafferano.it/Saute-di-cozze-e-vongole.html"
+        },
+        {
+            "name": "Anelli di calamari al forno",
+            "link": "https://ricette.giallozafferano.it/Anelli-di-calamari-al-forno.html"
+        },
+        {
+            "name": "Vitello tonnato alla maniera antica",
+            "link": "https://ricette.giallozafferano.it/Vitello-tonnato-alla-maniera-antica.html"
+        },
+        {
+            "name": "Fiori di zucca al forno",
+            "link": "https://ricette.giallozafferano.it/Fiori-di-zucca-al-forno.html"
+        },
+        {
+            "name": "Tramezzini",
+            "link": "https://ricette.giallozafferano.it/Tramezzini.html"
+        },
+        {
+            "name": "Plumcake alle verdure",
+            "link": "https://ricette.giallozafferano.it/Plumcake-alle-verdure.html"
+        },
+        {
+            "name": "Alici marinate",
+            "link": "https://ricette.giallozafferano.it/Alici-marinate.html"
+        },
+        {
+            "name": "Mozzarella in carrozza al forno",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-in-carrozza-al-forno.html"
+        },
+        {
+            "name": "Cipolline in agrodolce",
+            "link": "https://ricette.giallozafferano.it/Cipolline-in-agrodolce.html"
+        },
+        {
+            "name": "Frittatine nella pancetta",
+            "link": "https://ricette.giallozafferano.it/Frittatine-nella-pancetta.html"
+        },
+        {
+            "name": "Sformato di zucchine",
+            "link": "https://ricette.giallozafferano.it/Sformato-di-zucchine.html"
+        },
+        {
+            "name": "Pizza di scarola",
+            "link": "https://ricette.giallozafferano.it/Pizza-di-scarola.html"
+        },
+        {
+            "name": "Mozzarella ripiena",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-ripiena.html"
+        },
+        {
+            "name": "Uova sode",
+            "link": "https://ricette.giallozafferano.it/Uova-sode.html"
+        },
+        {
+            "name": "Grissini",
+            "link": "https://ricette.giallozafferano.it/Grissini.html"
+        },
+        {
+            "name": "Pizzelle fritte",
+            "link": "https://ricette.giallozafferano.it/Pizzelle-fritte.html"
+        },
+        {
+            "name": "Polpette di tonno e patate",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-tonno-e-patate.html"
+        },
+        {
+            "name": "Mini calzoni al forno",
+            "link": "https://ricette.giallozafferano.it/Mini-calzoni-al-forno.html"
+        },
+        {
+            "name": "Pizzette di zucchine",
+            "link": "https://ricette.giallozafferano.it/Pizzette-di-zucchine.html"
+        },
+        {
+            "name": "Panelle",
+            "link": "https://ricette.giallozafferano.it/Panelle.html"
+        },
+        {
+            "name": "Strudel con ricotta e spinaci",
+            "link": "https://ricette.giallozafferano.it/Strudel-con-ricotta-e-spinaci.html"
+        },
+        {
+            "name": "Frittelle di sciurilli",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-sciurilli.html"
+        },
+        {
+            "name": "Friggitelli ripieni vegetariani",
+            "link": "https://ricette.giallozafferano.it/Friggitelli-ripieni-vegetariani.html"
+        },
+        {
+            "name": "Sciatt",
+            "link": "https://ricette.giallozafferano.it/Sciatt.html"
+        },
+        {
+            "name": "Crocchette di patate al forno",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-al-forno.html"
+        },
+        {
+            "name": "Chips di patate",
+            "link": "https://ricette.giallozafferano.it/Chips-di-patate.html"
+        },
+        {
+            "name": "Olive all' ascolana",
+            "link": "https://ricette.giallozafferano.it/Olive-all-ascolana.html"
+        },
+        {
+            "name": "Carpaccio di polpo",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-polpo.html"
+        },
+        {
+            "name": "Polpette di zucca",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-zucca.html"
+        },
+        {
+            "name": "Bruschette al pomodoro",
+            "link": "https://ricette.giallozafferano.it/Bruschette-al-pomodoro.html"
+        },
+        {
+            "name": "Polpette di lenticchie",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-lenticchie.html"
+        },
+        {
+            "name": "Zucchine fritte",
+            "link": "https://ricette.giallozafferano.it/Zucchine-fritte.html"
+        },
+        {
+            "name": "Peperoni ripieni vegetariani",
+            "link": "https://ricette.giallozafferano.it/Peperoni-ripieni-vegetariani.html"
+        },
+        {
+            "name": "Torta di zucchine e i suoi fiori",
+            "link": "https://ricette.giallozafferano.it/Torta-di-zucchine-e-i-suoi-fiori.html"
+        },
+        {
+            "name": "Spiedini di gamberi",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-gamberi.html"
+        },
+        {
+            "name": "Polpette di patate al forno",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-patate-al-forno.html"
+        },
+        {
+            "name": "Torta salata agli spinaci",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-agli-spinaci.html"
+        },
+        {
+            "name": "Sbriciolata di patate e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Sbriciolata-di-patate-e-salsiccia.html"
+        },
+        {
+            "name": "Suppl\u00ec mozzarella e pomodoro",
+            "link": "https://ricette.giallozafferano.it/Suppli-mozzarella-e-pomodoro.html"
+        },
+        {
+            "name": "Avocado toast",
+            "link": "https://ricette.giallozafferano.it/Avocado-toast.html"
+        },
+        {
+            "name": "Pizza muffin",
+            "link": "https://ricette.giallozafferano.it/Pizza-muffin.html"
+        },
+        {
+            "name": "Frollini al Parmigiano",
+            "link": "https://ricette.giallozafferano.it/Frollini-al-Parmigiano.html"
+        },
+        {
+            "name": "Salsa cocktail",
+            "link": "https://ricette.giallozafferano.it/Salsa-cocktail.html"
+        },
+        {
+            "name": "Melanzane alla sarda",
+            "link": "https://ricette.giallozafferano.it/Melanzane-alla-sarda.html"
+        },
+        {
+            "name": "Polpette di zucchine e ricotta",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-zucchine-e-ricotta.html"
+        },
+        {
+            "name": "Polpette fritte rustiche",
+            "link": "https://ricette.giallozafferano.it/Polpette-fritte-rustiche.html"
+        },
+        {
+            "name": "Rotolini di zucchina in sfoglia",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-zucchina-in-sfoglia.html"
+        },
+        {
+            "name": "Suppl\u00ec al telefono",
+            "link": "https://ricette.giallozafferano.it/Suppli-al-telefono.html"
+        },
+        {
+            "name": "Fiori di zucca ripieni di speck e mozzarella",
+            "link": "https://ricette.giallozafferano.it/Fiori-di-zucca-ripieni-di-speck-e-mozzarella.html"
+        },
+        {
+            "name": "Mini cheesecake al salmone",
+            "link": "https://ricette.giallozafferano.it/Mini-cheesecake-al-salmone.html"
+        },
+        {
+            "name": "Schiacciata di zucchine",
+            "link": "https://ricette.giallozafferano.it/Schiacciata-di-zucchine.html"
+        },
+        {
+            "name": "Friselle con pomodoro e alici",
+            "link": "https://ricette.giallozafferano.it/Friselle-con-pomodoro-e-alici.html"
+        },
+        {
+            "name": "Pesce finto",
+            "link": "https://ricette.giallozafferano.it/Pesce-finto.html"
+        },
+        {
+            "name": "Fagottini di porri, salmone e robiola",
+            "link": "https://ricette.giallozafferano.it/Fagottini-di-porri-salmone-e-robiola.html"
+        },
+        {
+            "name": "Tomino in crosta di sfoglia",
+            "link": "https://ricette.giallozafferano.it/Tomino-in-crosta-di-sfoglia.html"
+        },
+        {
+            "name": "Plumcake alle zucchine",
+            "link": "https://ricette.giallozafferano.it/Plumcake-alle-zucchine.html"
+        },
+        {
+            "name": "Polpettine di melanzane con cuore di scamorza",
+            "link": "https://ricette.giallozafferano.it/Polpettine-di-melanzane-con-cuore-di-scamorza.html"
+        },
+        {
+            "name": "Teste di champignon ripieni",
+            "link": "https://ricette.giallozafferano.it/Teste-di-champignon-ripiene.html"
+        },
+        {
+            "name": "Flan di zucca",
+            "link": "https://ricette.giallozafferano.it/Flan-di-zucca.html"
+        },
+        {
+            "name": "Frittatine di pasta napoletane",
+            "link": "https://ricette.giallozafferano.it/Frittatine-di-pasta-napoletane.html"
+        },
+        {
+            "name": "Sbriciolata di patate",
+            "link": "https://ricette.giallozafferano.it/Sbriciolata-di-patate.html"
+        },
+        {
+            "name": "Gamberi in crosta",
+            "link": "https://ricette.giallozafferano.it/Gamberi-in-crosta.html"
+        },
+        {
+            "name": "Tartare di tonno",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-tonno.html"
+        },
+        {
+            "name": "Patatas bravas",
+            "link": "https://ricette.giallozafferano.it/Patatas-bravas.html"
+        },
+        {
+            "name": "Crescia al formaggio",
+            "link": "https://ricette.giallozafferano.it/Crescia_al_formaggio.html"
+        },
+        {
+            "name": "Schiacciata",
+            "link": "https://ricette.giallozafferano.it/Schiacciata.html"
+        },
+        {
+            "name": "Bruschetta con fichi e crudo dolce",
+            "link": "https://ricette.giallozafferano.it/Bruschetta-con-fichi-e-crudo-dolce.html"
+        },
+        {
+            "name": "Sarde in saor",
+            "link": "https://ricette.giallozafferano.it/Sarde-in-saor.html"
+        },
+        {
+            "name": "Carpaccio di melanzane",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-melanzane.html"
+        },
+        {
+            "name": "Taralli sugna e pepe",
+            "link": "https://ricette.giallozafferano.it/Taralli-sugna-e-pepe.html"
+        },
+        {
+            "name": "Peperoni sott'olio",
+            "link": "https://ricette.giallozafferano.it/Peperoni-sott-olio.html"
+        },
+        {
+            "name": "Caprese Fingerfood",
+            "link": "https://ricette.giallozafferano.it/Caprese-Fingerfood.html"
+        },
+        {
+            "name": "Bistecca alla Tartara",
+            "link": "https://ricette.giallozafferano.it/Bistecca-alla-Tartara.html"
+        },
+        {
+            "name": "Insalata di seppie",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-seppie.html"
+        },
+        {
+            "name": "Felafel con hummus veloce e salsa allo yogurt",
+            "link": "https://ricette.giallozafferano.it/Felafel-con-hummus-veloce-e-salsa-allo-yogurt.html"
+        },
+        {
+            "name": "Piadina senza strutto",
+            "link": "https://ricette.giallozafferano.it/Piadina-senza-strutto.html"
+        },
+        {
+            "name": "Insalata allo yogurt con salmone e gamberetti",
+            "link": "https://ricette.giallozafferano.it/Insalata-allo-yogurt-con-salmone-e-gamberetti.html"
+        },
+        {
+            "name": "Tacchino tonn\u00e8",
+            "link": "https://ricette.giallozafferano.it/Tacchino-tonne.html"
+        },
+        {
+            "name": "Panettone gastronomico",
+            "link": "https://ricette.giallozafferano.it/Panettone-gastronomico.html"
+        },
+        {
+            "name": "Insalata di zucchine alla menta e basilico",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-zucchine-alla-menta-e-basilico.html"
+        },
+        {
+            "name": "Involtini di peperoni al forno",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-peperoni-al-forno.html"
+        },
+        {
+            "name": "Avocado ripieno",
+            "link": "https://ricette.giallozafferano.it/Avocado-ripieno.html"
+        },
+        {
+            "name": "Bocconcini di patate formaggio e pancetta",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-patate-formaggio-e-pancetta.html"
+        },
+        {
+            "name": "Tortino di patate",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-patate.html"
+        },
+        {
+            "name": "Biscotti salati al basilico",
+            "link": "https://ricette.giallozafferano.it/Biscotti-salati-al-basilico.html"
+        },
+        {
+            "name": "Pizzette di melanzane",
+            "link": "https://ricette.giallozafferano.it/Pizzette-di-melanzane.html"
+        },
+        {
+            "name": "Polpette di quinoa, zucchine e stracchino",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-quinoa-zucchine-e-stracchino.html"
+        },
+        {
+            "name": "Nachos",
+            "link": "https://ricette.giallozafferano.it/Nachos.html"
+        },
+        {
+            "name": "Crostini rustici di polenta",
+            "link": "https://ricette.giallozafferano.it/Crostini-rustici-di-polenta.html"
+        },
+        {
+            "name": "Flan di spinaci e taleggio",
+            "link": "https://ricette.giallozafferano.it/Flan-di-spinaci-e-taleggio.html"
+        },
+        {
+            "name": "Torta salata ai carciofi",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-ai-carciofi.html"
+        },
+        {
+            "name": "Pettole",
+            "link": "https://ricette.giallozafferano.it/Pettole.html"
+        },
+        {
+            "name": "Quiche svuotafrigo",
+            "link": "https://ricette.giallozafferano.it/Quiche-svuotafrigo.html"
+        },
+        {
+            "name": "Onigiri",
+            "link": "https://ricette.giallozafferano.it/Onigiri.html"
+        },
+        {
+            "name": "Cazzilli palermitani",
+            "link": "https://ricette.giallozafferano.it/Cazzilli-palermitani.html"
+        },
+        {
+            "name": "Insalata di calamari",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-calamari.html"
+        },
+        {
+            "name": "Pastella per fritti",
+            "link": "https://ricette.giallozafferano.it/Pastella-per-fritti.html"
+        },
+        {
+            "name": "Pollo fritto con maionesi veloci",
+            "link": "https://ricette.giallozafferano.it/Pollo-fritto-con-maionesi-veloci.html"
+        },
+        {
+            "name": "Girelle di sfoglia con zucchine e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-sfoglia-con-zucchine-e-prosciutto.html"
+        },
+        {
+            "name": "Coni di bresaola e formaggio",
+            "link": "https://ricette.giallozafferano.it/Coni-di-bresaola-e-formaggio.html"
+        },
+        {
+            "name": "Girelle al prosciutto cotto e rucola",
+            "link": "https://ricette.giallozafferano.it/Girelle-al-prosciutto-e-rucola.html"
+        },
+        {
+            "name": "Ciambotta",
+            "link": "https://ricette.giallozafferano.it/Ciambotta.html"
+        },
+        {
+            "name": "Fiori di zucca ripieni di burrata e pomodori secchi",
+            "link": "https://ricette.giallozafferano.it/Fiori-di-zucca-ripieni-di-burrata-e-pomodori-secchi.html"
+        },
+        {
+            "name": "Polpo alla galiziana (pulpo a la gallega)",
+            "link": "https://ricette.giallozafferano.it/Polpo-alla-galiziana-pulpo-a-la-gallega.html"
+        },
+        {
+            "name": "Vongole alla pescatora",
+            "link": "https://ricette.giallozafferano.it/Vongole-alla-pescatora.html"
+        },
+        {
+            "name": "Bastoncini di pasta sfoglia al formaggio",
+            "link": "https://ricette.giallozafferano.it/Bastoncini-al-formaggio.html"
+        },
+        {
+            "name": "Danubio di patate",
+            "link": "https://ricette.giallozafferano.it/Danubio-di-patate.html"
+        },
+        {
+            "name": "Ceviche",
+            "link": "https://ricette.giallozafferano.it/Ceviche.html"
+        },
+        {
+            "name": "Tatin di pomodori e feta",
+            "link": "https://ricette.giallozafferano.it/Tatin-di-pomodori-e-feta.html"
+        },
+        {
+            "name": "Cotolette di melanzane alla parmigiana",
+            "link": "https://ricette.giallozafferano.it/Cotolette-di-melanzane-alla-parmigiana.html"
+        },
+        {
+            "name": "Frittata di asparagi",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-asparagi.html"
+        },
+        {
+            "name": "Polpo ubriaco",
+            "link": "https://ricette.giallozafferano.it/Polpo-ubriaco.html"
+        },
+        {
+            "name": "Bruschetta caprese",
+            "link": "https://ricette.giallozafferano.it/Bruschetta-caprese.html"
+        },
+        {
+            "name": "Rotolo ricotta e spinaci",
+            "link": "https://ricette.giallozafferano.it/Rotolo-ricotta-e-spinaci.html"
+        },
+        {
+            "name": "Pane azzimo",
+            "link": "https://ricette.giallozafferano.it/Pane-azzimo.html"
+        },
+        {
+            "name": "Panissa ligure",
+            "link": "https://ricette.giallozafferano.it/Panissa-ligure.html"
+        },
+        {
+            "name": "Pizzette di zucchine estive",
+            "link": "https://ricette.giallozafferano.it/Pizzette-di-zucchine-estive.html"
+        },
+        {
+            "name": "Fichi ripieni",
+            "link": "https://ricette.giallozafferano.it/Fichi-ripieni.html"
+        },
+        {
+            "name": "Frittata primavera",
+            "link": "https://ricette.giallozafferano.it/Frittata-primavera.html"
+        },
+        {
+            "name": "Caprese sfiziosa con salsa all'origano",
+            "link": "https://ricette.giallozafferano.it/Caprese-sfiziosa-con-salsa-all-origano.html"
+        },
+        {
+            "name": "Tortini di verdure e formaggio",
+            "link": "https://ricette.giallozafferano.it/Tortini-di-verdure-e-formaggio.html"
+        },
+        {
+            "name": "Rotolini di cetrioli",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-cetrioli.html"
+        },
+        {
+            "name": "Torta salata di zucca",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-di-zucca.html"
+        },
+        {
+            "name": "Grissini veloci di sfoglia al pomodoro",
+            "link": "https://ricette.giallozafferano.it/Grissini-veloci-di-sfoglia-al-pomodoro.html"
+        },
+        {
+            "name": "Tortino di patate in padella",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-patate-in-padella.html"
+        },
+        {
+            "name": "Pancake salati con bacon e cr\u00e8me fra\u00eeche",
+            "link": "https://ricette.giallozafferano.it/Pancakes-salati-con-bacon-e-creme-fraiche.html"
+        },
+        {
+            "name": "Zucchine in carpione",
+            "link": "https://ricette.giallozafferano.it/Zucchine-in-carpione.html"
+        },
+        {
+            "name": "Zucchine in pastella",
+            "link": "https://ricette.giallozafferano.it/Zucchine-in-pastella.html"
+        },
+        {
+            "name": "Involtini di verza",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-verza.html"
+        },
+        {
+            "name": "Uova alla coque",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-coque.html"
+        },
+        {
+            "name": "Bicchierini di riso venere e spada",
+            "link": "https://ricette.giallozafferano.it/Bicchierini-di-riso-venere-e-spada.html"
+        },
+        {
+            "name": "Crocchette di patate e speck",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-e-speck.html"
+        },
+        {
+            "name": "Angelica alle zucchine",
+            "link": "https://ricette.giallozafferano.it/Angelica-alle-zucchine.html"
+        },
+        {
+            "name": "Involtini di frittata",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-frittata.html"
+        },
+        {
+            "name": "Polpette di fagioli cannellini",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-fagioli-cannellini.html"
+        },
+        {
+            "name": "Torta rovesciata di zucchine e tonno",
+            "link": "https://ricette.giallozafferano.it/Torta-rovesciata-di-zucchine-e-tonno.html"
+        },
+        {
+            "name": "Sformato di zucchine filante",
+            "link": "https://ricette.giallozafferano.it/Sformato-di-zucchine-filante.html"
+        },
+        {
+            "name": "Rotolo porcini e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Rotolo-porcini-e-prosciutto.html"
+        },
+        {
+            "name": "Muffin con feta e salmone",
+            "link": "https://ricette.giallozafferano.it/Muffins-con-feta-e-salmone.html"
+        },
+        {
+            "name": "Gamberi gratinati",
+            "link": "https://ricette.giallozafferano.it/Gamberi-gratinati.html"
+        },
+        {
+            "name": "Torta 5 minuti salata",
+            "link": "https://ricette.giallozafferano.it/Torta-5-minuti-salata.html"
+        },
+        {
+            "name": "Avocado, uova e salmone",
+            "link": "https://ricette.giallozafferano.it/Avocado-uova-e-salmone.html"
+        },
+        {
+            "name": "Torta al testo",
+            "link": "https://ricette.giallozafferano.it/Torta-al-testo.html"
+        },
+        {
+            "name": "Cozze fritte",
+            "link": "https://ricette.giallozafferano.it/Cozze-fritte.html"
+        },
+        {
+            "name": "Tonno sott'olio",
+            "link": "https://ricette.giallozafferano.it/Tonno-sott-olio.html"
+        },
+        {
+            "name": "Muffin ai peperoni",
+            "link": "https://ricette.giallozafferano.it/Muffin-ai-peperoni.html"
+        },
+        {
+            "name": "Polpette di tonno e ricotta con peperoni",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-tonno-e-ricotta-con-peperoni.html"
+        },
+        {
+            "name": "Cracker",
+            "link": "https://ricette.giallozafferano.it/Crackers.html"
+        },
+        {
+            "name": "Uova alla greca",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-greca.html"
+        },
+        {
+            "name": "Insalata di anguria",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-anguria.html"
+        },
+        {
+            "name": "Mousse di salmone",
+            "link": "https://ricette.giallozafferano.it/Mousse-di-salmone.html"
+        },
+        {
+            "name": "Pinzimonio di verdure",
+            "link": "https://ricette.giallozafferano.it/Pinzimonio-di-verdure.html"
+        },
+        {
+            "name": "Filetto di tonno in crosta di noci e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Filetto-di-tonno-in-crosta-di-noci-e-pistacchi.html"
+        },
+        {
+            "name": "Involtini vietnamiti con salsa agrodolce",
+            "link": "https://ricette.giallozafferano.it/Involtini-vietnamiti-con-salsa-agrodolce.html"
+        },
+        {
+            "name": "Carpaccio di spada affumicato con insalata di mele e rucola",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-spada-affumicato-con-insalata-di-mele-e-rucola.html"
+        },
+        {
+            "name": "Crocchette di salmone e patate",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-salmone-e-patate.html"
+        },
+        {
+            "name": "Crema fritta",
+            "link": "https://ricette.giallozafferano.it/Crema-fritta.html"
+        },
+        {
+            "name": "Pate' di fegato",
+            "link": "https://ricette.giallozafferano.it/Pate-di-fegato.html"
+        },
+        {
+            "name": "Arancini di riso al forno",
+            "link": "https://ricette.giallozafferano.it/Arancini-di-riso-al-forno.html"
+        },
+        {
+            "name": "Blinis",
+            "link": "https://ricette.giallozafferano.it/Blinis.html"
+        },
+        {
+            "name": "Tartufini di formaggio ai quattro colori",
+            "link": "https://ricette.giallozafferano.it/Tartufini-di-formaggio-ai-quattro-colori.html"
+        },
+        {
+            "name": "Polpette di pollo",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-pollo.html"
+        },
+        {
+            "name": "Strudel di verdure",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-verdure.html"
+        },
+        {
+            "name": "Burek al formaggio",
+            "link": "https://ricette.giallozafferano.it/Burek-al-formaggio.html"
+        },
+        {
+            "name": "Tris di bruschette",
+            "link": "https://ricette.giallozafferano.it/Tris-di-bruschette.html"
+        },
+        {
+            "name": "Asparagi in sfoglia con crudo",
+            "link": "https://ricette.giallozafferano.it/Asparagi-in-sfoglia-con-crudo.html"
+        },
+        {
+            "name": "Chicken rolls",
+            "link": "https://ricette.giallozafferano.it/Chicken-rolls.html"
+        },
+        {
+            "name": "Tris di tartine",
+            "link": "https://ricette.giallozafferano.it/Tris-di-tartine.html"
+        },
+        {
+            "name": "Crostino con salmone marinato",
+            "link": "https://ricette.giallozafferano.it/Crostino-con-salmone-marinato.html"
+        },
+        {
+            "name": "Tonno di coniglio",
+            "link": "https://ricette.giallozafferano.it/Tonno-di-coniglio.html"
+        },
+        {
+            "name": "Uova alla monachina",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-monachina.html"
+        },
+        {
+            "name": "Frittata di melanzane e pomodorini",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-melanzane-e-pomodorini.html"
+        },
+        {
+            "name": "Cozze alla busara",
+            "link": "https://ricette.giallozafferano.it/Cozze-alla-busara.html"
+        },
+        {
+            "name": "Tonno fagioli e cipolla",
+            "link": "https://ricette.giallozafferano.it/Tonno-fagioli-e-cipolla.html"
+        },
+        {
+            "name": "Carciofi alla giudia",
+            "link": "https://ricette.giallozafferano.it/Carciofi-alla-giudia.html"
+        },
+        {
+            "name": "Crocchette di patate con cuore filante di mozzarella e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-con-cuore-filante-di-mozzarella-e-prosciutto.html"
+        },
+        {
+            "name": "Fagottini ai broccoli e ricotta",
+            "link": "https://ricette.giallozafferano.it/Fagottini-ai-broccoli-e-ricotta.html"
+        },
+        {
+            "name": "Frittelle di cipolle di Tropea",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-cipolle-di-Tropea.html"
+        },
+        {
+            "name": "Quiche di zucchine trombetta",
+            "link": "https://ricette.giallozafferano.it/Quiche-di-zucchine-trombetta.html"
+        },
+        {
+            "name": "Frittelle di zucchine croccanti",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-zucchine-croccanti.html"
+        },
+        {
+            "name": "Croissant salati",
+            "link": "https://ricette.giallozafferano.it/Croissant-salati.html"
+        },
+        {
+            "name": "Pasta frolla salata",
+            "link": "https://ricette.giallozafferano.it/Pasta-frolla-salata.html"
+        },
+        {
+            "name": "Torta rustica ai 4 formaggi",
+            "link": "https://ricette.giallozafferano.it/Torta-rustica-ai-4-formaggi.html"
+        },
+        {
+            "name": "Focaccia con cipolle rosse e tonno",
+            "link": "https://ricette.giallozafferano.it/Focaccia-con-cipolle-rosse-e-tonno.html"
+        },
+        {
+            "name": "Torta salata alla barbabietola",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-alla-barbabietola.html"
+        },
+        {
+            "name": "Rotolini di piadina con salmone, avocado e crema allo yogurt",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-piadina-con-salmone-avocado-e-crema-allo-yogurt.html"
+        },
+        {
+            "name": "Tartare di ricciola con salsa al mango",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-ricciola-con-salsa-al-mango.html"
+        },
+        {
+            "name": "Torta salata caprese",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-caprese.html"
+        },
+        {
+            "name": "Fagottini di fiori di zucca",
+            "link": "https://ricette.giallozafferano.it/Fagottini-di-fiori-di-zucca.html"
+        },
+        {
+            "name": "Pollo in carpione",
+            "link": "https://ricette.giallozafferano.it/Pollo-in-carpione.html"
+        },
+        {
+            "name": "Crescia sfogliata",
+            "link": "https://ricette.giallozafferano.it/Crescia-sfogliata.html"
+        },
+        {
+            "name": "Involtini in foglie di vite",
+            "link": "https://ricette.giallozafferano.it/Involtini-in-foglie-di-vite.html"
+        },
+        {
+            "name": "Friggitelli ripieni",
+            "link": "https://ricette.giallozafferano.it/Friggitelli-ripieni.html"
+        },
+        {
+            "name": "Mini muffin salati ricotta e speck",
+            "link": "https://ricette.giallozafferano.it/Mini-muffin-salati-ricotta-e-speck.html"
+        },
+        {
+            "name": "Involtini di zucchine",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-zucchine.html"
+        },
+        {
+            "name": "Biscotti con parmigiano e pecorino",
+            "link": "https://ricette.giallozafferano.it/Biscotti-con-parmigiano-e-pecorino.html"
+        },
+        {
+            "name": "Pomodori  gratinati alla pugliese",
+            "link": "https://ricette.giallozafferano.it/Pomodori-gratinati-alla-pugliese.html"
+        },
+        {
+            "name": "Spanakopita",
+            "link": "https://ricette.giallozafferano.it/Spanakopita.html"
+        },
+        {
+            "name": "Frittelle di verdure croccanti",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-verdure-croccanti.html"
+        },
+        {
+            "name": "Melanzane sott'olio",
+            "link": "https://ricette.giallozafferano.it/Melanzane-sott-olio.html"
+        },
+        {
+            "name": "Zuccotto di melanzane",
+            "link": "https://ricette.giallozafferano.it/Zuccotto-di-melanzane.html"
+        },
+        {
+            "name": "Frittelle di zucchine trombetta e suoi fiori",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-zucchine-trombetta-e-suoi-fiori.html"
+        },
+        {
+            "name": "Crostata di patate",
+            "link": "https://ricette.giallozafferano.it/Crostata-di-patate.html"
+        },
+        {
+            "name": "Pasticcio di patate e pancetta",
+            "link": "https://ricette.giallozafferano.it/Pasticcio-di-patate-e-pancetta.html"
+        },
+        {
+            "name": "Samosa",
+            "link": "https://ricette.giallozafferano.it/Samosa.html"
+        },
+        {
+            "name": "Ciambelle salate veloci",
+            "link": "https://ricette.giallozafferano.it/Ciambelle-salate-veloci.html"
+        },
+        {
+            "name": "Conetti salati con mousse di mortadella",
+            "link": "https://ricette.giallozafferano.it/Conetti-salati-con-mousse-di-mortadella.html"
+        },
+        {
+            "name": "Quiche con scarola e cubetti di cotto",
+            "link": "https://ricette.giallozafferano.it/Quiche-con-scarola-e-cotto.html"
+        },
+        {
+            "name": "Girelle di zucchine ripiene",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-zucchine-ripiene.html"
+        },
+        {
+            "name": "Crostino vegano",
+            "link": "https://ricette.giallozafferano.it/antipasto-vegano.html"
+        },
+        {
+            "name": "Torta salata al radicchio",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-al-radicchio.html"
+        },
+        {
+            "name": "Torta salata funghi e patate",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-funghi-e-patate.html"
+        },
+        {
+            "name": "Spiedini di melone, feta e rucola",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-melone-feta-e-rucola.html"
+        },
+        {
+            "name": "Frittelle di baccal\u00e0",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-baccala.html"
+        },
+        {
+            "name": "Crocchette di riso con provola e prosciutto cotto",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-riso-con-provola-e-prosciutto-cotto.html"
+        },
+        {
+            "name": "Melanzane a beccafico",
+            "link": "https://ricette.giallozafferano.it/Melanzane-a-beccafico.html"
+        },
+        {
+            "name": "Panini delle feste",
+            "link": "https://ricette.giallozafferano.it/Panini-delle-feste.html"
+        },
+        {
+            "name": "Uova alla benedettina",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-benedettina.html"
+        },
+        {
+            "name": "Fagottini alla mortadella",
+            "link": "https://ricette.giallozafferano.it/Fagottini-alla-mortadella.html"
+        },
+        {
+            "name": "Strudel salato con prosciutto, funghi e fontina",
+            "link": "https://ricette.giallozafferano.it/Strudel-salato-con-prosciutto-funghi-e-fontina.html"
+        },
+        {
+            "name": "Tortini di melanzane",
+            "link": "https://ricette.giallozafferano.it/Tortini-di-melanzane.html"
+        },
+        {
+            "name": "Nodini di parmigiano",
+            "link": "https://ricette.giallozafferano.it/Nodini-di-parmigiano.html"
+        },
+        {
+            "name": "Crocchette di riso al forno",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-riso-al-forno.html"
+        },
+        {
+            "name": "Grilled cheese sandwich",
+            "link": "https://ricette.giallozafferano.it/Grilled-cheese-sandwich.html"
+        },
+        {
+            "name": "Gamberi al cocco",
+            "link": "https://ricette.giallozafferano.it/Gamberi-al-cocco.html"
+        },
+        {
+            "name": "Torretta di melanzane e mozzarella",
+            "link": "https://ricette.giallozafferano.it/Torretta-di-melanzane-e-mozzarella.html"
+        },
+        {
+            "name": "Filetti di peperoni arrostiti con acciughe ai sapori",
+            "link": "https://ricette.giallozafferano.it/Filetti-di-peperoni-arrostiti-con-acciughe-ai-sapori.html"
+        },
+        {
+            "name": "Polpette di cavolfiore",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-cavolfiore.html"
+        },
+        {
+            "name": "Conserva di pomodorini",
+            "link": "https://ricette.giallozafferano.it/Conserva-di-pomodorini.html"
+        },
+        {
+            "name": "Melanzane a pullastiello",
+            "link": "https://ricette.giallozafferano.it/Melanzane-a-pullastiello.html"
+        },
+        {
+            "name": "Spiedini di pomodorini e mozzarelline",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-pomodorini-e-mozzarelline.html"
+        },
+        {
+            "name": "Fagiolini fritti",
+            "link": "https://ricette.giallozafferano.it/Fagiolini-fritti.html"
+        },
+        {
+            "name": "Souffl\u00e9  al formaggio",
+            "link": "https://ricette.giallozafferano.it/Souffle-al-formaggio.html"
+        },
+        {
+            "name": "Bocconcini di quinoa",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-quinoa.html"
+        },
+        {
+            "name": "Medaglioni di polenta",
+            "link": "https://ricette.giallozafferano.it/Medaglioni-di-polenta.html"
+        },
+        {
+            "name": "Fonduta di Parmigiano",
+            "link": "https://ricette.giallozafferano.it/Fonduta-di-Parmigiano.html"
+        },
+        {
+            "name": "Caviale di zucchine con crema di gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Caviale-di-zucchine-con-crema-di-gorgonzola.html"
+        },
+        {
+            "name": "Caviale di melanzane",
+            "link": "https://ricette.giallozafferano.it/Caviale-di-melanzane.html"
+        },
+        {
+            "name": "Bocconcini di salmone speziato croccante",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-salmone-speziato-croccante.html"
+        },
+        {
+            "name": "Mozzarella stick",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-stick.html"
+        },
+        {
+            "name": "Sformatini di ricotta",
+            "link": "https://ricette.giallozafferano.it/Sformatini-di-ricotta.html"
+        },
+        {
+            "name": "Pomodori ripieni di panzanella",
+            "link": "https://ricette.giallozafferano.it/Pomodori-ripieni-di-panzanella.html"
+        },
+        {
+            "name": "Quiche al salmone con asparagi e porri",
+            "link": "https://ricette.giallozafferano.it/quiche-al-salmone.html"
+        },
+        {
+            "name": "Polpette di alici",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-alici.html"
+        },
+        {
+            "name": "Torrette di patate arrosto",
+            "link": "https://ricette.giallozafferano.it/Torrette-di-patate-arrosto.html"
+        },
+        {
+            "name": "Carpaccio di pesce spada al pepe verde e rosa",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-pesce-spada-al-pepe-verde-e-rosa.html"
+        },
+        {
+            "name": "Torta 7 vasetti alle zucchine",
+            "link": "https://ricette.giallozafferano.it/Torta-7-vasetti-alle-zucchine.html"
+        },
+        {
+            "name": "Patatine fritte alla belga",
+            "link": "https://ricette.giallozafferano.it/Patatine-fritte-alla-belga.html"
+        },
+        {
+            "name": "Rotolo di frittata con prosciutto e scamorza",
+            "link": "https://ricette.giallozafferano.it/Rotolo-di-frittata-con-prosciutto-e-scamorza.html"
+        },
+        {
+            "name": "Crostini con pat\u00e8 di funghi Champignon",
+            "link": "https://ricette.giallozafferano.it/Crostini-con-pate-di-funghi-Champignon.html"
+        },
+        {
+            "name": "Bicchierini salati al salmone, spuma di formaggio e crumble alle erbe",
+            "link": "https://ricette.giallozafferano.it/Bicchierini-salati-al-salmone-spuma-di-formaggio-e-crumble-alle-erbe.html"
+        },
+        {
+            "name": "Rustici",
+            "link": "https://ricette.giallozafferano.it/Rustici.html"
+        },
+        {
+            "name": "Cuddrurieddri calabresi",
+            "link": "https://ricette.giallozafferano.it/Cuddrurieddri-calabresi.html"
+        },
+        {
+            "name": "Girelle con prosciutto e formaggio",
+            "link": "https://ricette.giallozafferano.it/Girelle-con-prosciutto-e-formaggio.html"
+        },
+        {
+            "name": "Bocconcini di rana pescatrice in crosta di mandorle",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-rana-pescatrice-in-crosta-di-mandorle.html"
+        },
+        {
+            "name": "Cipolline sott'olio",
+            "link": "https://ricette.giallozafferano.it/Cipolline-sott-olio.html"
+        },
+        {
+            "name": "Torta di salmone",
+            "link": "https://ricette.giallozafferano.it/Torta-di-salmone.html"
+        },
+        {
+            "name": "Involtini di zucchine e gamberi",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-zucchine-e-gamberi.html"
+        },
+        {
+            "name": "Involtini di pasta fillo vegetariani",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-pasta-fillo-vegetariani.html"
+        },
+        {
+            "name": "Kimchi",
+            "link": "https://ricette.giallozafferano.it/Kimchi.html"
+        },
+        {
+            "name": "Brandacujun",
+            "link": "https://ricette.giallozafferano.it/Brandacujun.html"
+        },
+        {
+            "name": "Nuvole di zucchine e pecorino",
+            "link": "https://ricette.giallozafferano.it/Nuvole-di-zucchine-e-pecorino.html"
+        },
+        {
+            "name": "Gamberoni al brandy con stracciatella e pistacchio",
+            "link": "https://ricette.giallozafferano.it/Gamberoni-al-brandy-con-stracciatella-e-pistacchio.html"
+        },
+        {
+            "name": "Insalata capricciosa",
+            "link": "https://ricette.giallozafferano.it/Insalata-capricciosa.html"
+        },
+        {
+            "name": "Bruschette brunch",
+            "link": "https://ricette.giallozafferano.it/Bruschette-brunch.html"
+        },
+        {
+            "name": "Barchette di melanzane grigliate",
+            "link": "https://ricette.giallozafferano.it/Barchette-di-melanzane-grigliate.html"
+        },
+        {
+            "name": "Triangolini di pasta phillo al salmone con crema di burrata",
+            "link": "https://ricette.giallozafferano.it/Triangolini-di-pasta-phillo-al-salmone-con-crema-di-burrata.html"
+        },
+        {
+            "name": "Pita con hummus di pomodori secchi",
+            "link": "https://ricette.giallozafferano.it/Pita-con-hummus-di-pomodori-secchi.html"
+        },
+        {
+            "name": "Flan di asparagi",
+            "link": "https://ricette.giallozafferano.it/Flan-di-asparagi.html"
+        },
+        {
+            "name": "Crocchette zucchine e speck",
+            "link": "https://ricette.giallozafferano.it/Crocchette-zucchine-e-speck.html"
+        },
+        {
+            "name": "Crocchette di piselli e ricotta",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-piselli-e-ricotta.html"
+        },
+        {
+            "name": "Cuori di sfoglia salati",
+            "link": "https://ricette.giallozafferano.it/Cuori-di-sfoglia-salati.html"
+        },
+        {
+            "name": "Escargot \u00e0 la Bourguignonne",
+            "link": "https://ricette.giallozafferano.it/Escargot-a-la-Bourguignonne.html"
+        },
+        {
+            "name": "Bastoncini di pollo con salsa alla senape",
+            "link": "https://ricette.giallozafferano.it/Bastoncini-di-pollo-con-salsa-alla-senape.html"
+        },
+        {
+            "name": "Tomino al forno",
+            "link": "https://ricette.giallozafferano.it/Tomino-al-forno.html"
+        },
+        {
+            "name": "Gamberi aglio e peperoncino",
+            "link": "https://ricette.giallozafferano.it/Gamberi-aglio-e-peperoncino.html"
+        },
+        {
+            "name": "Panzanella toscana",
+            "link": "https://ricette.giallozafferano.it/Panzanella-toscana.html"
+        },
+        {
+            "name": "Focaccine integrali in padella",
+            "link": "https://ricette.giallozafferano.it/Focaccine-integrali-in-padella.html"
+        },
+        {
+            "name": "Cestini di patate ripieni di salmone",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-patate-ripiene-di-salmone.html"
+        },
+        {
+            "name": "Danubio tricolore",
+            "link": "https://ricette.giallozafferano.it/Danubio-tricolore.html"
+        },
+        {
+            "name": "Sformati di broccoli con salsa al caprino",
+            "link": "https://ricette.giallozafferano.it/Sformati-di-broccoli-con-salsa-al-caprino.html"
+        },
+        {
+            "name": "Vol-au-vent fantasia",
+            "link": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html"
+        },
+        {
+            "name": "Roselline di melanzane",
+            "link": "https://ricette.giallozafferano.it/Roselline-di-melanzane.html"
+        },
+        {
+            "name": "Polpette di cavolfiore e curcuma",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-cavolfiore-e-curcuma.html"
+        },
+        {
+            "name": "Spianata romagnola",
+            "link": "https://ricette.giallozafferano.it/Spianata-romagnola.html"
+        },
+        {
+            "name": "Rotolini salati con cuore morbido",
+            "link": "https://ricette.giallozafferano.it/Rotolini-salati-con-cuore-morbido.html"
+        },
+        {
+            "name": "Quesadillas",
+            "link": "https://ricette.giallozafferano.it/Quesadillas.html"
+        },
+        {
+            "name": "Frittelle di mais",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-mais.html"
+        },
+        {
+            "name": "Finger food anguria e caprino",
+            "link": "https://ricette.giallozafferano.it/Finger-food-anguria-e-caprino.html"
+        },
+        {
+            "name": "Wurstel in camicia",
+            "link": "https://ricette.giallozafferano.it/Wurstel-in-camicia.html"
+        },
+        {
+            "name": "Barchette croccanti con mousse di tonno",
+            "link": "https://ricette.giallozafferano.it/Barchette-croccanti-con-mousse-di-tonno.html"
+        },
+        {
+            "name": "Baba' salato",
+            "link": "https://ricette.giallozafferano.it/Baba-salato.html"
+        },
+        {
+            "name": "Frittata al forno ai ceci",
+            "link": "https://ricette.giallozafferano.it/Frittata-al-forno-ai-ceci.html"
+        },
+        {
+            "name": "Polpette di polpo",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-polpo.html"
+        },
+        {
+            "name": "Tigelle crudo e crescenza",
+            "link": "https://ricette.giallozafferano.it/Tigelle-crudo-e-crescenza.html"
+        },
+        {
+            "name": "Poke",
+            "link": "https://ricette.giallozafferano.it/Poke.html"
+        },
+        {
+            "name": "Melanzane arrostite",
+            "link": "https://ricette.giallozafferano.it/Melanzane-arrostite.html"
+        },
+        {
+            "name": "Focaccia arrotolata",
+            "link": "https://ricette.giallozafferano.it/Focaccia-arrotolata.html"
+        },
+        {
+            "name": "Falafel di fave",
+            "link": "https://ricette.giallozafferano.it/Falafel-di-fave.html"
+        },
+        {
+            "name": "Roselline di prosciutto crudo su fichi",
+            "link": "https://ricette.giallozafferano.it/Roselline-di-prosciutto-crudo-su-fichi.html"
+        },
+        {
+            "name": "Hummus di lenticchie",
+            "link": "https://ricette.giallozafferano.it/Hummus-di-lenticchie.html"
+        },
+        {
+            "name": "Tramezzini tzatziki e tonno",
+            "link": "https://ricette.giallozafferano.it/Tramezzini-tzatziki-e-tonno.html"
+        },
+        {
+            "name": "Pissaladi\u00e8re",
+            "link": "https://ricette.giallozafferano.it/Pissaladiere.html"
+        },
+        {
+            "name": "Carpaccio di tonno con salsa al frutto della passione",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-tonno-con-salsa-al-frutto-della-passione.html"
+        },
+        {
+            "name": "Quiche di polenta",
+            "link": "https://ricette.giallozafferano.it/Quiche-di-polenta.html"
+        },
+        {
+            "name": "Pomodori verdi fritti",
+            "link": "https://ricette.giallozafferano.it/Pomodori-verdi-fritti.html"
+        },
+        {
+            "name": "Tris di cheesecake salate",
+            "link": "https://ricette.giallozafferano.it/Tris-di-cheesecake-salate.html"
+        },
+        {
+            "name": "Tortilla chips",
+            "link": "https://ricette.giallozafferano.it/Tortilla-chips.html"
+        },
+        {
+            "name": "Muffin di patate",
+            "link": "https://ricette.giallozafferano.it/Muffin-di-patate.html"
+        },
+        {
+            "name": "Ciambella pizza alta e soffice",
+            "link": "https://ricette.giallozafferano.it/Ciambella-pizza-alta-e-soffice.html"
+        },
+        {
+            "name": "Clafoutis al salmone",
+            "link": "https://ricette.giallozafferano.it/Clafoutis-al-salmone.html"
+        },
+        {
+            "name": "Aperitivo di fiori e frutta",
+            "link": "https://ricette.giallozafferano.it/Aperitivo-di-fiori-e-frutta.html"
+        },
+        {
+            "name": "Spiedini di verdure grigliate",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-verdure-grigliate.html"
+        },
+        {
+            "name": "Gazpacho all\u2019anguria",
+            "link": "https://ricette.giallozafferano.it/Gazpacho-all-anguria.html"
+        },
+        {
+            "name": "Gamberi al lardo",
+            "link": "https://ricette.giallozafferano.it/Gamberi-al-lardo.html"
+        },
+        {
+            "name": "Funghi fritti",
+            "link": "https://ricette.giallozafferano.it/Funghi-fritti.html"
+        },
+        {
+            "name": "Finger di bufala e gamberi",
+            "link": "https://ricette.giallozafferano.it/Finger-di-bufala-e-gamberi.html"
+        },
+        {
+            "name": "Cannoli di Grana ripieni",
+            "link": "https://ricette.giallozafferano.it/Cannoli-di-grana-ripieni.html"
+        },
+        {
+            "name": "Crostata salata patate e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Crostata-salata-patate-e-gorgonzola.html"
+        },
+        {
+            "name": "Sushi all'italiana",
+            "link": "https://ricette.giallozafferano.it/Sushi-all-italiana.html"
+        },
+        {
+            "name": "Crostata salata alla ricotta e fiori di zucca",
+            "link": "https://ricette.giallozafferano.it/Crostata-salata-alla-ricotta-e-fiori-di-zucca.html"
+        },
+        {
+            "name": "Vitello tonnato con maionese",
+            "link": "https://ricette.giallozafferano.it/Vitello-tonnato-con-maionese.html"
+        },
+        {
+            "name": "Sformatini di carciofi con salsa al Parmigiano",
+            "link": "https://ricette.giallozafferano.it/Sformatini-di-carciofi.html"
+        },
+        {
+            "name": "Tartare di scampi ",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-scampi.html"
+        },
+        {
+            "name": "Calzoni di patate",
+            "link": "https://ricette.giallozafferano.it/Calzoni-di-patate.html"
+        },
+        {
+            "name": "Capesante gratinate alla provenzale",
+            "link": "https://ricette.giallozafferano.it/Capesante-gratinate-alla-provenzale.html"
+        },
+        {
+            "name": "Cestini con gamberi e avocado",
+            "link": "https://ricette.giallozafferano.it/Cestini-con-gamberi-e-avocado.html"
+        },
+        {
+            "name": "Bruschette al lardo e rosmarino",
+            "link": "https://ricette.giallozafferano.it/Bruschette-al-lardo-e-rosmarino.html"
+        },
+        {
+            "name": "Capesante gratinate al burro e Brandy",
+            "link": "https://ricette.giallozafferano.it/Capesante-gratinate-al-burro-e-Brandy.html"
+        },
+        {
+            "name": "Bocconcini di pollo in crosta di parmigiano",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-in-crosta-di-parmigiano.html"
+        },
+        {
+            "name": "Bastoncini di pollo aromatici",
+            "link": "https://ricette.giallozafferano.it/Bastoncini-di-pollo-aromatici.html"
+        },
+        {
+            "name": "Sfoglie capresi",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-capresi.html"
+        },
+        {
+            "name": "Girelle di pane con verdure e caprino",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-pane-con-verdure-e-caprino.html"
+        },
+        {
+            "name": "Crescente bolognese",
+            "link": "https://ricette.giallozafferano.it/Crescenta-bolognese.html"
+        },
+        {
+            "name": "Pane armeno",
+            "link": "https://ricette.giallozafferano.it/Pane-armeno.html"
+        },
+        {
+            "name": "Quiche alla zucca e bieta",
+            "link": "https://ricette.giallozafferano.it/Quiche-alla-zucca-e-bieta.html"
+        },
+        {
+            "name": "Arancini di riso venere e pesce",
+            "link": "https://ricette.giallozafferano.it/Arancini-di-riso-venere-e-pesce.html"
+        },
+        {
+            "name": "Schiacciate con crema al basilico",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-crema-al-basilico.html"
+        },
+        {
+            "name": "Spitini palermitani",
+            "link": "https://ricette.giallozafferano.it/Spitini-palermitani.html"
+        },
+        {
+            "name": "Bruschette con funghi trifolati",
+            "link": "https://ricette.giallozafferano.it/Bruschette-con-funghi-trifolati.html"
+        },
+        {
+            "name": "Paccheri fritti",
+            "link": "https://ricette.giallozafferano.it/Paccheri-fritti.html"
+        },
+        {
+            "name": "Mondeghili (Polpette milanesi)",
+            "link": "https://ricette.giallozafferano.it/Mondeghili.html"
+        },
+        {
+            "name": "Canap\u00e8",
+            "link": "https://ricette.giallozafferano.it/Canape.html"
+        },
+        {
+            "name": "Cipolle ripiene",
+            "link": "https://ricette.giallozafferano.it/Cipolle-ripiene.html"
+        },
+        {
+            "name": "Crumble di verdure",
+            "link": "https://ricette.giallozafferano.it/Crumble-di-verdure.html"
+        },
+        {
+            "name": "Mini quiche ai funghi, porri e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Mini-quiche-ai-funghi-porri-e-prosciutto.html"
+        },
+        {
+            "name": "Cavolfiore in pastella",
+            "link": "https://ricette.giallozafferano.it/Cavolfiore-in-pastella.html"
+        },
+        {
+            "name": "Mini pasqualine",
+            "link": "https://ricette.giallozafferano.it/Mini-pasqualine.html"
+        },
+        {
+            "name": "Vol-au-vent ripieni",
+            "link": "https://ricette.giallozafferano.it/Vol-au-vent-ripieni.html"
+        },
+        {
+            "name": "Pancake salati alle erbe",
+            "link": "https://ricette.giallozafferano.it/Pancakes-salati-alle-erbe.html"
+        },
+        {
+            "name": "Pat\u00e8 di fegatini",
+            "link": "https://ricette.giallozafferano.it/Pate-di-fegatini.html"
+        },
+        {
+            "name": "Gamberi arrostiti al miele",
+            "link": "https://ricette.giallozafferano.it/Gamberi-arrostiti-al-miele.html"
+        },
+        {
+            "name": "Alici ammollicate",
+            "link": "https://ricette.giallozafferano.it/Alici-ammollicate.html"
+        },
+        {
+            "name": "Insalata di nervetti",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-nervetti.html"
+        },
+        {
+            "name": "Fritto misto di calamari e gamberi con salsa di maionese e yogurt",
+            "link": "https://ricette.giallozafferano.it/Fritto-misto-di-calamari-e-gamberi-con-salsa-di-maionese-e-yogurt.html"
+        },
+        {
+            "name": "Ceci croccanti al forno",
+            "link": "https://ricette.giallozafferano.it/Ceci-croccanti-al-forno.html"
+        },
+        {
+            "name": "Rotolini di crepe ripieni",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-crepes-ripieni.html"
+        },
+        {
+            "name": "Caesar salad di pollo su lattuga baby",
+            "link": "https://ricette.giallozafferano.it/Caesar-salad-di-pollo-su-lattuga-baby.html"
+        },
+        {
+            "name": "Waffle sandwich",
+            "link": "https://ricette.giallozafferano.it/Waffle-sandwich.html"
+        },
+        {
+            "name": "Polpette di miglio alle verdure con crema di fave",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-miglio-alle-verdure-con-crema-di-fave.html"
+        },
+        {
+            "name": "Tramezzino ai tre sapori",
+            "link": "https://ricette.giallozafferano.it/Tramezzino-ai-tre-sapori.html"
+        },
+        {
+            "name": "Scones salati ai piselli e pancetta",
+            "link": "https://ricette.giallozafferano.it/Scones-salati-ai-piselli-e-pancetta.html"
+        },
+        {
+            "name": "Tatin di fiori di zucca ripieni",
+            "link": "https://ricette.giallozafferano.it/Tatin-di-fiori-di-zucca-ripieni.html"
+        },
+        {
+            "name": "Ceviche di gamberi",
+            "link": "https://ricette.giallozafferano.it/Ceviche-di-gamberi.html"
+        },
+        {
+            "name": "Bombe di patate veloci",
+            "link": "https://ricette.giallozafferano.it/Bombe-di-patate-veloci.html"
+        },
+        {
+            "name": "Babaganoush all'italiana",
+            "link": "https://ricette.giallozafferano.it/Babaganoush-all-italiana.html"
+        },
+        {
+            "name": "Ciambelle pizza",
+            "link": "https://ricette.giallozafferano.it/Ciambelle-pizza.html"
+        },
+        {
+            "name": "Brustengo",
+            "link": "https://ricette.giallozafferano.it/Brustengo.html"
+        },
+        {
+            "name": "Insalata di mare in vasocottura",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-mare-in-vasocottura.html"
+        },
+        {
+            "name": "Baci di dama salati",
+            "link": "https://ricette.giallozafferano.it/Baci-di-dama-salati.html"
+        },
+        {
+            "name": "Muffin salati senza uova",
+            "link": "https://ricette.giallozafferano.it/Muffin-salati-senza-uova.html"
+        },
+        {
+            "name": "Involtini di pasta fillo con gamberi e spinaci",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-pasta-fillo-con-gamberi-e-spinaci.html"
+        },
+        {
+            "name": "Bocconcini di prugne e bacon",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-prugne-e-bacon.html"
+        },
+        {
+            "name": "Involtini di peperoni con cuore di caprino",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-peperoni-con-cuore-di-caprino.html"
+        },
+        {
+            "name": "Frittelle di zucca",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-zucca.html"
+        },
+        {
+            "name": "Cracker ai semi",
+            "link": "https://ricette.giallozafferano.it/Cracker-ai-semi.html"
+        },
+        {
+            "name": "Sfogliata con cotto, ricotta e verdure",
+            "link": "https://ricette.giallozafferano.it/Sfogliata-con-cotto-ricotta-e-verdure.html"
+        },
+        {
+            "name": "Fiori di zucca ripieni di carne",
+            "link": "https://ricette.giallozafferano.it/Fiori-di-zucca-ripieni-di-carne.html"
+        },
+        {
+            "name": "Limoni ripieni di crema al tonno",
+            "link": "https://ricette.giallozafferano.it/Limoni-ripieni-di-crema-al-tonno.html"
+        },
+        {
+            "name": "Focaccia con zucchine",
+            "link": "https://ricette.giallozafferano.it/Focaccia-con-zucchine.html"
+        },
+        {
+            "name": "Bombette di patate e zucchine filanti",
+            "link": "https://ricette.giallozafferano.it/Bombette-di-patate-e-zucchine-filanti.html"
+        },
+        {
+            "name": "Cream tart salata",
+            "link": "https://ricette.giallozafferano.it/Cream-tart-salata.html"
+        },
+        {
+            "name": "Bastoncini di carote fritte",
+            "link": "https://ricette.giallozafferano.it/Bastoncini-di-carote-fritte.html"
+        },
+        {
+            "name": "Insalata di frutta",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-frutta.html"
+        },
+        {
+            "name": "Mini cornetti di sfoglia alla crema di salmone e formaggio fresco",
+            "link": "https://ricette.giallozafferano.it/Mini-cornetti-di-sfoglia-alla-crema-di-salmone-e-formaggio-fresco.html"
+        },
+        {
+            "name": "Uova alla diavola",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-diavola.html"
+        },
+        {
+            "name": "Cheesecake salata con pane nero e crema al salmone",
+            "link": "https://ricette.giallozafferano.it/Cheesecake-salata-con-pane-nero-e-crema-al-salmone.html"
+        },
+        {
+            "name": "Tartare di salmone e panzanella",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-salmone-e-panzanella.html"
+        },
+        {
+            "name": "Bocconcini di uva al formaggio e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-uva-al-formaggio-e-pistacchi.html"
+        },
+        {
+            "name": "Crostini di patate dolci con spada e stracchino",
+            "link": "https://ricette.giallozafferano.it/Crostini-di-patate-dolci-con-spada-e-stracchino.html"
+        },
+        {
+            "name": "Focaccine di patate ripiene di gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Focaccine-di-patate-ripiene-di-gorgonzola.html"
+        },
+        {
+            "name": "Polpettine fritte al salmone e patate con maionese veloce alla paprika",
+            "link": "https://ricette.giallozafferano.it/Polpettine-fritte-al-salmone-e-patate-con-maionese-veloce-alla-paprika.html"
+        },
+        {
+            "name": "Pacchettini di pasta fillo con cuore di salmone e formaggio",
+            "link": "https://ricette.giallozafferano.it/Pacchettini-di-pasta-fillo-con-cuore-di-salmone-e-formaggio.html"
+        },
+        {
+            "name": "Croquetas (crocchette)",
+            "link": "https://ricette.giallozafferano.it/Croquetas-crocchette.html"
+        },
+        {
+            "name": "Tarte tatin di cipolle",
+            "link": "https://ricette.giallozafferano.it/Tarte-tatin-di-cipolle.html"
+        },
+        {
+            "name": "Tortino di alici",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-alici.html"
+        },
+        {
+            "name": "Alici alla scapece",
+            "link": "https://ricette.giallozafferano.it/Alici-alla-scapece.html"
+        },
+        {
+            "name": "Pomodorini in crosta",
+            "link": "https://ricette.giallozafferano.it/Pomodorini-in-crosta.html"
+        },
+        {
+            "name": "Carpaccio di pesce spada con salsa verde alla senape",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-pesce-spada-con-salsa-verde-alla-senape.html"
+        },
+        {
+            "name": "'Nfigghiulate",
+            "link": "https://ricette.giallozafferano.it/Nfigghiulate.html"
+        },
+        {
+            "name": "Ciambellone salato facile",
+            "link": "https://ricette.giallozafferano.it/Ciambellone-salato-facile-e-veloce.html"
+        },
+        {
+            "name": "Crocchette di patate con cuore filante",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-con-cuore-filante.html"
+        },
+        {
+            "name": "Frittata di ortiche",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-ortiche.html"
+        },
+        {
+            "name": "Sigari marocchini di pasta fillo",
+            "link": "https://ricette.giallozafferano.it/Sigari-marocchini-di-pasta-fillo.html"
+        },
+        {
+            "name": "Bab\u00e0 rustico",
+            "link": "https://ricette.giallozafferano.it/Baba-rustico-salsiccia-e-friarielli.html"
+        },
+        {
+            "name": "Funghi portobello ripieni",
+            "link": "https://ricette.giallozafferano.it/Funghi-portobello-ripieni.html"
+        },
+        {
+            "name": "Terrina millegusti",
+            "link": "https://ricette.giallozafferano.it/Terrina-millegusti.html"
+        },
+        {
+            "name": "Tortino di patate alla pizzaiola",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-patate-alla-pizzaiola.html"
+        },
+        {
+            "name": "Composta di cipolle rosse",
+            "link": "https://ricette.giallozafferano.it/Composta-di-cipolle-rosse.html"
+        },
+        {
+            "name": "Pirozhki",
+            "link": "https://ricette.giallozafferano.it/Pirozhki.html"
+        },
+        {
+            "name": "Involtini di zucchine al forno",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-zucchine-al-forno.html"
+        },
+        {
+            "name": "Wonton fritti",
+            "link": "https://ricette.giallozafferano.it/Wonton-fritti.html"
+        },
+        {
+            "name": "Olive in salamoia",
+            "link": "https://ricette.giallozafferano.it/Olive-in-salamoia.html"
+        },
+        {
+            "name": "Involtini freddi di lattuga ",
+            "link": "https://ricette.giallozafferano.it/Involtini-freddi-di-lattuga.html"
+        },
+        {
+            "name": "Focaccia senza glutine",
+            "link": "https://ricette.giallozafferano.it/Focaccia-senza-glutine.html"
+        },
+        {
+            "name": "Crostata salata ai fichi",
+            "link": "https://ricette.giallozafferano.it/Crostata-salata-ai-fichi.html"
+        },
+        {
+            "name": "Involtini di insalata ripieni di tonno",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-insalata-ripieni-di-tonno.html"
+        },
+        {
+            "name": "Gingerbread salati e spritz delle feste",
+            "link": "https://ricette.giallozafferano.it/Gingerbread-salati-e-spritz-delle-feste.html"
+        },
+        {
+            "name": "Tramezzini delle feste",
+            "link": "https://ricette.giallozafferano.it/Tramezzini-delle-feste.html"
+        },
+        {
+            "name": "Arancini di riso al pistacchio",
+            "link": "https://ricette.giallozafferano.it/Arancini-di-riso-al-pistacchio.html"
+        },
+        {
+            "name": "Pat\u00e8 di carciofi",
+            "link": "https://ricette.giallozafferano.it/Pate-di-carciofi.html"
+        },
+        {
+            "name": "Patate ripiene prosciutto e formaggio",
+            "link": "https://ricette.giallozafferano.it/Patate-ripiene-prosciutto-e-formaggio.html"
+        },
+        {
+            "name": "Frittelle di pane",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-pane.html"
+        },
+        {
+            "name": "Uova alla flamenca",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-flamenca.html"
+        },
+        {
+            "name": "Sardine fritte",
+            "link": "https://ricette.giallozafferano.it/Sardine-fritte.html"
+        },
+        {
+            "name": "Cantucci al gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Cantucci-al-gorgonzola.html"
+        },
+        {
+            "name": "Crescentine (o tigelle) con la cunza",
+            "link": "https://ricette.giallozafferano.it/Crescentine-o-tigelle-con-la-.html"
+        },
+        {
+            "name": "Frittatine con cavolo nero",
+            "link": "https://ricette.giallozafferano.it/Frittatine-con-cavolo-nero.html"
+        },
+        {
+            "name": "Frittura di gamberi con salsa al mango",
+            "link": "https://ricette.giallozafferano.it/Frittura-di-gamberi-con-salsa-al-mango.html"
+        },
+        {
+            "name": "Chips di zucchine croccanti",
+            "link": "https://ricette.giallozafferano.it/Chips-di-zucchine-croccanti.html"
+        },
+        {
+            "name": "Insalata russa con tonno",
+            "link": "https://ricette.giallozafferano.it/Insalata-russa-con-tonno.html"
+        },
+        {
+            "name": "Uova primavera",
+            "link": "https://ricette.giallozafferano.it/Uova-primavera.html"
+        },
+        {
+            "name": "Tofu fritto",
+            "link": "https://ricette.giallozafferano.it/Tofu-fritto.html"
+        },
+        {
+            "name": "Uova ripiene",
+            "link": "https://ricette.giallozafferano.it/Uova-ripiene.html"
+        },
+        {
+            "name": "Alici fritte marinate",
+            "link": "https://ricette.giallozafferano.it/Alici-fritte-marinate.html"
+        },
+        {
+            "name": "Smacafam",
+            "link": "https://ricette.giallozafferano.it/Smacafam.html"
+        },
+        {
+            "name": "Spiedini di polpo e patate",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-polpo-e-patate.html"
+        },
+        {
+            "name": "Yorkshire pudding",
+            "link": "https://ricette.giallozafferano.it/Yorkshire-pudding.html"
+        },
+        {
+            "name": "Antipasto crudo e avocado",
+            "link": "https://ricette.giallozafferano.it/Antipasto-crudo-e-avocado.html"
+        },
+        {
+            "name": "Gamberi al forno in crosta di pistacchi",
+            "link": "https://ricette.giallozafferano.it/Gamberi-al-forno-in-crosta-di-pistacchi.html"
+        },
+        {
+            "name": "Triangolini di pasta fillo con broccoli e ricotta",
+            "link": "https://ricette.giallozafferano.it/Triangolini-di-pasta-fillo-con-broccoli-e-ricotta.html"
+        },
+        {
+            "name": "Strudel di salmone e ricotta",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-salmone-e-ricotta.html"
+        },
+        {
+            "name": "Crepe alle zucchine cotto e stracchino",
+            "link": "https://ricette.giallozafferano.it/Crepes-alle-zucchine-cotto-e-stracchino.html"
+        },
+        {
+            "name": "Mozzarella in carrozza al verde con pesto di zucchine e basilico",
+            "link": "https://ricette.giallozafferano.it/Mozzarella-in-carrozza-al-verde-con-pesto-di-zucchine-e-basilico.html"
+        },
+        {
+            "name": "Ostriche limone e pepe",
+            "link": "https://ricette.giallozafferano.it/Ostriche-limone-e-pepe.html"
+        },
+        {
+            "name": "Cestini di patate con zucchine e formaggio",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-patate-con-zucchine-e-formaggio.html"
+        },
+        {
+            "name": "Grissini ritorti",
+            "link": "https://ricette.giallozafferano.it/Grissini-ritorti.html"
+        },
+        {
+            "name": "Panini colorati",
+            "link": "https://ricette.giallozafferano.it/Panini-colorati.html"
+        },
+        {
+            "name": "Spiedini di tortellini fritti con salsa alla panna e parmigiano",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-tortellini-fritti-con-salsa-alla-panna-e-parmigiano.html"
+        },
+        {
+            "name": "Torta salata tricolore",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-tricolore.html"
+        },
+        {
+            "name": "Crocchette di prosciutto",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-prosciutto.html"
+        },
+        {
+            "name": "Barchette di indivia ai formaggi",
+            "link": "https://ricette.giallozafferano.it/Barchette-di-indivia-ai-formaggi.html"
+        },
+        {
+            "name": "Scatola di sfilati alle olive con salumi e formaggi ",
+            "link": "https://ricette.giallozafferano.it/Scatola-di-sfilati-alle-olive-con-salumi-e-formaggi.html"
+        },
+        {
+            "name": "Barchette con crema di parmigiano e uva",
+            "link": "https://ricette.giallozafferano.it/Barchette-con-crema-di-parmigiano-e-uva.html"
+        },
+        {
+            "name": "Cestini di prosciutto e melone",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-prosciutto-e-melone.html"
+        },
+        {
+            "name": "Nugget di ceci",
+            "link": "https://ricette.giallozafferano.it/Nugget-di-ceci.html"
+        },
+        {
+            "name": "Primosale fritto",
+            "link": "https://ricette.giallozafferano.it/Primosale-fritto.html"
+        },
+        {
+            "name": "Olive schiacciate",
+            "link": "https://ricette.giallozafferano.it/Olive-schiacciate.html"
+        },
+        {
+            "name": "Coxinha (arancini brasiliani)",
+            "link": "https://ricette.giallozafferano.it/Coxinha-arancini-brasiliani.html"
+        },
+        {
+            "name": "Crostini con crema di lenticchie al rosmarino",
+            "link": "https://ricette.giallozafferano.it/Crostini-con-crema-di-lenticchie-al-rosmarino.html"
+        },
+        {
+            "name": "Bocconcini di pollo al cocco",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-pollo-al-cocco.html"
+        },
+        {
+            "name": "Carote di sfoglia ripiene",
+            "link": "https://ricette.giallozafferano.it/Carote-di-sfoglia-ripiene.html"
+        },
+        {
+            "name": "Tronchetto salato vegetariano",
+            "link": "https://ricette.giallozafferano.it/Tronchetto-salato-vegetariano.html"
+        },
+        {
+            "name": "Tartare di fassona con crema inglese salata",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-fassona-con-crema-inglese-salata.html"
+        },
+        {
+            "name": "Pomodori ripieni di couscous con sgombro e olive",
+            "link": "https://ricette.giallozafferano.it/Pomodori-ripieni-di-couscous-con-sgombro-e-olive.html"
+        },
+        {
+            "name": "Tartare di carne su bruschetta",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-carne-su-bruschetta.html"
+        },
+        {
+            "name": "Migliaccio salato",
+            "link": "https://ricette.giallozafferano.it/Migliaccio-salato.html"
+        },
+        {
+            "name": "Polpette aromatiche al vapore",
+            "link": "https://ricette.giallozafferano.it/Polpette-aromatiche-al-vapore.html"
+        },
+        {
+            "name": "Caprese fritta",
+            "link": "https://ricette.giallozafferano.it/Caprese-fritta.html"
+        },
+        {
+            "name": "Polpette di patate e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-patate-e-gorgonzola.html"
+        },
+        {
+            "name": "Bocconcini di castagne e bacon",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-castagne-e-bacon.html"
+        },
+        {
+            "name": "Toast vegetariano",
+            "link": "https://ricette.giallozafferano.it/Toast-vegetariano.html"
+        },
+        {
+            "name": "Polpette di farro ricotta e verdure",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-farro-ricotta-e-verdure.html"
+        },
+        {
+            "name": "Nugget di tofu",
+            "link": "https://ricette.giallozafferano.it/Nugget-di-tofu.html"
+        },
+        {
+            "name": "Capesante scottate con cipolla caramellata",
+            "link": "https://ricette.giallozafferano.it/Capesante-scottate-con-cipolla-caramellata.html"
+        },
+        {
+            "name": "Hummus di barbabietola",
+            "link": "https://ricette.giallozafferano.it/Hummus-di-barbabietola.html"
+        },
+        {
+            "name": "Funghi champignon ripieni di salsiccia",
+            "link": "https://ricette.giallozafferano.it/Funghi-champignon-ripieni-di-salsiccia.html"
+        },
+        {
+            "name": "Girelle alla sardella",
+            "link": "https://ricette.giallozafferano.it/Girelle-alla-sardella.html"
+        },
+        {
+            "name": "Ricotta fritta",
+            "link": "https://ricette.giallozafferano.it/Ricotta-fritta.html"
+        },
+        {
+            "name": "Flan di topinambur",
+            "link": "https://ricette.giallozafferano.it/Flan-di-topinambur.html"
+        },
+        {
+            "name": "Bruschetta irlandese",
+            "link": "https://ricette.giallozafferano.it/Bruschetta-irlandese.html"
+        },
+        {
+            "name": "Crostini di cozze e pomodorini",
+            "link": "https://ricette.giallozafferano.it/Crostini-di-cozze-e-pomodorini.html"
+        },
+        {
+            "name": "Naan all'aglio",
+            "link": "https://ricette.giallozafferano.it/Naan-all-aglio.html"
+        },
+        {
+            "name": "Capesante al vino",
+            "link": "https://ricette.giallozafferano.it/Capesante-al-vino.html"
+        },
+        {
+            "name": "Schiacciatine sfiziose",
+            "link": "https://ricette.giallozafferano.it/Schiacciatine-sfiziose.html"
+        },
+        {
+            "name": "Mini Tacos di Grana Padano e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Mini-Tacos-di-Grana-Padano-e-salsiccia.html"
+        },
+        {
+            "name": "Crostino ai fichi",
+            "link": "https://ricette.giallozafferano.it/Crostino-ai-fichi.html"
+        },
+        {
+            "name": "Involtini di verza ripieni di verdura",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-verdura.html"
+        },
+        {
+            "name": "Taralli zenzero e curcuma",
+            "link": "https://ricette.giallozafferano.it/Taralli-zenzero-e-curcuma.html"
+        },
+        {
+            "name": "Millefoglie di caponata",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-di-caponata.html"
+        },
+        {
+            "name": "Sbrisolona salata",
+            "link": "https://ricette.giallozafferano.it/Sbrisolona-salata.html"
+        },
+        {
+            "name": "Polpettine di vitello al limone e maggiorana",
+            "link": "https://ricette.giallozafferano.it/Polpettine-di-vitello-al-limone-e-maggiorana.html"
+        },
+        {
+            "name": "Cordon bleu di polenta",
+            "link": "https://ricette.giallozafferano.it/Cordon-bleu-di-polenta.html"
+        },
+        {
+            "name": "Rotolo al salmone funghi e spinaci saltati",
+            "link": "https://ricette.giallozafferano.it/Rotolo-al-salmone-funghi-e-spinaci-saltati.html"
+        },
+        {
+            "name": "Gravlax di ricciola",
+            "link": "https://ricette.giallozafferano.it/Gravlax-di-ricciola.html"
+        },
+        {
+            "name": "Patate ripiene di nonna Franca",
+            "link": "https://ricette.giallozafferano.it/Patate-ripiene-di-nonna-Franca.html"
+        },
+        {
+            "name": "Sfogliatine peperoni e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Sfogliatine-peperoni-e-gorgonzola.html"
+        },
+        {
+            "name": "Cheesecake salate alle erbe",
+            "link": "https://ricette.giallozafferano.it/Cheesecake-salata-alle-erbe.html"
+        },
+        {
+            "name": "Cozze in salsa di vino bianco e panna",
+            "link": "https://ricette.giallozafferano.it/Cozze-in-salsa-di-vino-bianco-e-panna.html"
+        },
+        {
+            "name": "Pane con lievito istantaneo",
+            "link": "https://ricette.giallozafferano.it/Panini-veloci-alle-olive.html"
+        },
+        {
+            "name": "Crepe di ceci con mousse di baccal\u00e0",
+            "link": "https://ricette.giallozafferano.it/Crepe-di-ceci-con-mousse-di-baccala.html"
+        },
+        {
+            "name": "Empanadas di tonno",
+            "link": "https://ricette.giallozafferano.it/Empanadas-di-tonno.html"
+        },
+        {
+            "name": "Cotolette di finocchi",
+            "link": "https://ricette.giallozafferano.it/Cotolette-di-finocchi.html"
+        },
+        {
+            "name": "Crocchette di carne lessa (bitterballen)",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-carne-lessa-bitterballen.html"
+        },
+        {
+            "name": "Toast di gamberetti al sesamo",
+            "link": "https://ricette.giallozafferano.it/Toast-di-gamberetti-al-sesamo.html"
+        },
+        {
+            "name": "Macaron salati al salmone e aneto",
+            "link": "https://ricette.giallozafferano.it/Macaron-salati-al-salmone-e-aneto.html"
+        },
+        {
+            "name": "Sfoglie con burro aromatizzato e acciughe",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-burro-aromatizzato-e-acciughe.html"
+        },
+        {
+            "name": "Chutney di mele",
+            "link": "https://ricette.giallozafferano.it/Chutney-di-mele.html"
+        },
+        {
+            "name": "Uova ripiene pasquali",
+            "link": "https://ricette.giallozafferano.it/Uova-ripiene-pasquali.html"
+        },
+        {
+            "name": "Tartellette con cipolle caramellate e stracciatella",
+            "link": "https://ricette.giallozafferano.it/Tartellette-con-cipolle-caramellate-e-stracciatella.html"
+        },
+        {
+            "name": "Torta sandwich",
+            "link": "https://ricette.giallozafferano.it/Torta-sandwich.html"
+        },
+        {
+            "name": "Crocchette di ceci e gamberi",
+            "link": "https://ricette.giallozafferano.it/crocchette-di-ceci-e-gamberi.html"
+        },
+        {
+            "name": "Focaccia di patate con burrata e fiori di zucca",
+            "link": "https://ricette.giallozafferano.it/Focaccia-di-patate-con-burrata-e-fiori-di-zucca.html"
+        },
+        {
+            "name": "Cheesecake al tonno",
+            "link": "https://ricette.giallozafferano.it/Cheesecake-al-tonno.html"
+        },
+        {
+            "name": "Pizza di barbabietola",
+            "link": "https://ricette.giallozafferano.it/Pizza-di-barbabietola.html"
+        },
+        {
+            "name": "Rose di patate e bacon",
+            "link": "https://ricette.giallozafferano.it/Rose-di-patate-e-bacon.html"
+        },
+        {
+            "name": "Cozze alla catalana",
+            "link": "https://ricette.giallozafferano.it/Cozze-alla-catalana.html"
+        },
+        {
+            "name": "Panadas",
+            "link": "https://ricette.giallozafferano.it/Panadas.html"
+        },
+        {
+            "name": "Schiacciate pomodoro e mozzarella",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-pomodoro-e-mozzarella.html"
+        },
+        {
+            "name": "Sfogliette con pesce spada affumicato",
+            "link": "https://ricette.giallozafferano.it/Sfogliette-con-pesce-spada-affumicato.html"
+        },
+        {
+            "name": "Sfogliata con spada e gamberetti",
+            "link": "https://ricette.giallozafferano.it/Sfogliata-con-spada-e-gamberetti.html"
+        },
+        {
+            "name": "Pita con melanzane e pollo",
+            "link": "https://ricette.giallozafferano.it/Pita-con-melanzane-e-pollo.html"
+        },
+        {
+            "name": "Involtini di tacchino con patate, ricotta e pancetta",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-tacchino-con-patate-ricotta-e-pancetta.html"
+        },
+        {
+            "name": "Polpette capresi",
+            "link": "https://ricette.giallozafferano.it/Polpette-capresi.html"
+        },
+        {
+            "name": "Bruschetta con burrata e verdure",
+            "link": "https://ricette.giallozafferano.it/Bruschetta-con-burrata-e-verdure.html"
+        },
+        {
+            "name": "Is coccois prenas",
+            "link": "https://ricette.giallozafferano.it/Is-coccois-prenas.html"
+        },
+        {
+            "name": "Timballo di salmone e zucchine",
+            "link": "https://ricette.giallozafferano.it/Timballo-di-salmone-e-zucchine.html"
+        },
+        {
+            "name": "Panzanella invernale",
+            "link": "https://ricette.giallozafferano.it/Panzanella-invernale.html"
+        },
+        {
+            "name": "Millefoglie di pasta fillo con pere e brie",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-di-pasta-fillo-con-pere-e-brie.html"
+        },
+        {
+            "name": "Pleurotus alla griglia",
+            "link": "https://ricette.giallozafferano.it/Pleurotus-alla-griglia.html"
+        },
+        {
+            "name": "Tartare di barbabietola e avocado",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-barbabietola-e-avocado.html"
+        },
+        {
+            "name": "Quiche con capesante e porri",
+            "link": "https://ricette.giallozafferano.it/Quiche-con-capesante-e-porri.html"
+        },
+        {
+            "name": "Profiteroles salati",
+            "link": "https://ricette.giallozafferano.it/Profiteroles-salati.html"
+        },
+        {
+            "name": "Mini bavaresi al peperone e robiola",
+            "link": "https://ricette.giallozafferano.it/Mini-bavaresi-al-peperone-e-robiola.html"
+        },
+        {
+            "name": "Spiedini di tonno e salmone con insalata thai",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-tonno-e-salmone-con-insalata-thai.html"
+        },
+        {
+            "name": "Prosciutto e ananas",
+            "link": "https://ricette.giallozafferano.it/Prosciutto-e-ananas.html"
+        },
+        {
+            "name": "Aspic millecolori con gelatina alla birra",
+            "link": "https://ricette.giallozafferano.it/Aspic-millecolori-con-gelatina-alla-birra.html"
+        },
+        {
+            "name": "Spiedini di mazzancolle al lime, miele e semi di papavero",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-mazzancolle-al-lime-miele-e-semi-di-papavero.html"
+        },
+        {
+            "name": "Flan di Grana con funghi finferli",
+            "link": "https://ricette.giallozafferano.it/Flan-di-Grana-con-funghi-finferli.html"
+        },
+        {
+            "name": "Crostata salata di polenta",
+            "link": "https://ricette.giallozafferano.it/Crostata-salata-di-polenta.html"
+        },
+        {
+            "name": "Straccetti di pizza fritti",
+            "link": "https://ricette.giallozafferano.it/Straccetti-di-pizza-fritti.html"
+        },
+        {
+            "name": "Strudel ai funghi porcini",
+            "link": "https://ricette.giallozafferano.it/Strudel-ai-funghi-porcini.html"
+        },
+        {
+            "name": "Ciambelle salate saporite",
+            "link": "https://ricette.giallozafferano.it/Ciambelle-salate-saporite.html"
+        },
+        {
+            "name": "Uova in cocotte",
+            "link": "https://ricette.giallozafferano.it/Uova-in-cocotte.html"
+        },
+        {
+            "name": "Frittata di mazzancolle",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-mazzancolle.html"
+        },
+        {
+            "name": "Ceviche di ricciola con passatine di pomodorini",
+            "link": "https://ricette.giallozafferano.it/Ceviche-di-ricciola-con-passatine-di-pomodorini.html"
+        },
+        {
+            "name": "Torta salata",
+            "link": "https://ricette.giallozafferano.it/Torta-salata.html"
+        },
+        {
+            "name": "Grissini cacio e pepe",
+            "link": "https://ricette.giallozafferano.it/Grissini-cacio-e-pepe.html"
+        },
+        {
+            "name": "Souffl\u00e9 ai funghi",
+            "link": "https://ricette.giallozafferano.it/Souffle-ai-funghi.html"
+        },
+        {
+            "name": "Frittelle di piselli con salsa allo yogurt",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-piselli-con-salsa-allo-yogurt.html"
+        },
+        {
+            "name": "Polpettine di carciofi con cuore filante",
+            "link": "https://ricette.giallozafferano.it/Polpettine-di-carciofi-con-cuore-filante.html"
+        },
+        {
+            "name": "Croque baguette",
+            "link": "https://ricette.giallozafferano.it/Croque-baguette.html"
+        },
+        {
+            "name": "Crocchette di pollo e piselli",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-pollo-e-piselli.html"
+        },
+        {
+            "name": "Pagnotta con formaggio fuso",
+            "link": "https://ricette.giallozafferano.it/Pagnotta-con-formaggio-fuso.html"
+        },
+        {
+            "name": "Torta salata di rucola",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-di-rucola.html"
+        },
+        {
+            "name": "Crocchette di patate e broccoli con cuore di pomodorini",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-e-broccoli-con-cuore-di-pomodorini.html"
+        },
+        {
+            "name": "Cipolla croccante",
+            "link": "https://ricette.giallozafferano.it/Cipolla-croccante.html"
+        },
+        {
+            "name": "Grissini con lievito madre",
+            "link": "https://ricette.giallozafferano.it/Grissini-con-lievito-madre.html"
+        },
+        {
+            "name": "Ravioli al vapore all'orientale con verdure e mazzancolle",
+            "link": "https://ricette.giallozafferano.it/Ravioli-al-vapore-all-orientale-con-verdure-e-mazzancolle.html"
+        },
+        {
+            "name": "Come preparare i popcorn",
+            "link": "https://ricette.giallozafferano.it/Come-preparare-i-popcorn.html"
+        },
+        {
+            "name": "Insalata di branzino affumicato con mango e frutta secca",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-branzino-affumicato-con-mango-e-frutta-secca.html"
+        },
+        {
+            "name": "Quiche  al salmone con patate e radicchio",
+            "link": "https://ricette.giallozafferano.it/Quiche-al-salmone-con-patate-e-radicchio.html"
+        },
+        {
+            "name": "Spiedini di patate",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-patate.html"
+        },
+        {
+            "name": "Falafel di lupini",
+            "link": "https://ricette.giallozafferano.it/Falafel-di-lupini.html"
+        },
+        {
+            "name": "Crocchette di barbabietola",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-barbabietola.html"
+        },
+        {
+            "name": "Olive nere al forno",
+            "link": "https://ricette.giallozafferano.it/Olive-nere-al-forno.html"
+        },
+        {
+            "name": "Ciambella salata alla robiola con piselli e prosciutto",
+            "link": "https://ricette.giallozafferano.it/Ciambella-salata-alla-robiola-con-piselli-e-prosciutto.html"
+        },
+        {
+            "name": "Cestini di lattuga con insalata di tacchino",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-lattuga-con-insalata-di-tacchino.html"
+        },
+        {
+            "name": "Involtini di peperoni ripieni di pesce",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-peperoni-ripieni-di-pesce.html"
+        },
+        {
+            "name": "Clafoutis salato",
+            "link": "https://ricette.giallozafferano.it/Clafoutis-salato.html"
+        },
+        {
+            "name": "Gratin monoporzione di patate, zucca e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Gratin-monoporzione-di-patate-zucca-e-salsiccia.html"
+        },
+        {
+            "name": "Baci di champignon",
+            "link": "https://ricette.giallozafferano.it/Baci-di-champignon.html"
+        },
+        {
+            "name": "Charlotte salata",
+            "link": "https://ricette.giallozafferano.it/Charlotte-salata.html"
+        },
+        {
+            "name": "Frittatine allegre",
+            "link": "https://ricette.giallozafferano.it/Frittatine-allegre.html"
+        },
+        {
+            "name": "Rustichella integrale",
+            "link": "https://ricette.giallozafferano.it/Rustichella-integrale.html"
+        },
+        {
+            "name": "Plumcake finto dolce",
+            "link": "https://ricette.giallozafferano.it/Plumcake-finto-dolce.html"
+        },
+        {
+            "name": "Piadina con coppa, scamorza ed erbette",
+            "link": "https://ricette.giallozafferano.it/Piadina-con-coppa-scamorza-ed-erbette.html"
+        },
+        {
+            "name": "Pacchetti natalizi con scampi, zenzero e lime",
+            "link": "https://ricette.giallozafferano.it/Pacchetti-natalizi-con-scampi-zenzero-e-lime.html"
+        },
+        {
+            "name": "Biscotti al gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Biscotti-al-gorgonzola.html"
+        },
+        {
+            "name": "Mini strudel con porro speck e Gruy\u00e8re ",
+            "link": "https://ricette.giallozafferano.it/Mini-strudel-con-porro-speck-e-Gruyere.html"
+        },
+        {
+            "name": "Bocconcini di sfoglia con formaggio e miele",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-sfoglia-con-formaggio-e-miele.html"
+        },
+        {
+            "name": "Carpaccio di ricciola marinato in salsa di soia",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-ricciola-marinato-in-salsa-di-soia.html"
+        },
+        {
+            "name": "Polpette di baccal\u00e0 e patate",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-baccala-e-patate.html"
+        },
+        {
+            "name": "Porri al prosciutto",
+            "link": "https://ricette.giallozafferano.it/Porri-al-prosciutto.html"
+        },
+        {
+            "name": "Pomodorini all'australiana",
+            "link": "https://ricette.giallozafferano.it/Pomodorini-all-australiana.html"
+        },
+        {
+            "name": "Fasolari gratinati",
+            "link": "https://ricette.giallozafferano.it/Fasolari-gratinati.html"
+        },
+        {
+            "name": "Noodles di zucchine e carote con tonno e pomodoro",
+            "link": "https://ricette.giallozafferano.it/Noodles-di-zucchine-e-carote-con-tonno-e-pomodoro.html"
+        },
+        {
+            "name": "Cornetti di pasta sfoglia al salmone",
+            "link": "https://ricette.giallozafferano.it/Cornetti-di-pasta-sfoglia-al-salmone.html"
+        },
+        {
+            "name": "Piconi marchigiani",
+            "link": "https://ricette.giallozafferano.it/Piconi-marchigiani.html"
+        },
+        {
+            "name": "Filetti di tonno su vellutata di ceci e cipolle rosse",
+            "link": "https://ricette.giallozafferano.it/Filetti-di-tonno-su-vellutata-di-ceci-e-cipolle-rosse.html"
+        },
+        {
+            "name": "Yakitori roll",
+            "link": "https://ricette.giallozafferano.it/Yakitori-roll.html"
+        },
+        {
+            "name": "Crocchette cacio e pepe",
+            "link": "https://ricette.giallozafferano.it/Crocchette-cacio-e-pepe.html"
+        },
+        {
+            "name": "Frittelle di capperi",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-capperi.html"
+        },
+        {
+            "name": "Focaccine al basilico",
+            "link": "https://ricette.giallozafferano.it/Focaccine-al-basilico.html"
+        },
+        {
+            "name": "Cracker di farro",
+            "link": "https://ricette.giallozafferano.it/Cracker-di-farro.html"
+        },
+        {
+            "name": "Bruschette al pesto di erbe e sardine grigliate",
+            "link": "https://ricette.giallozafferano.it/Bruschette-al-pesto-di-erbe-e-sardine-grigliate.html"
+        },
+        {
+            "name": "Crocchette di patate e salmone con salsa allo yogurt",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-patate-e-salmone-con-salsa-allo-yogurt.html"
+        },
+        {
+            "name": "Crostini con ricotta e marmellata di peperoncini",
+            "link": "https://ricette.giallozafferano.it/Crostini-con-ricotta-e-marmellata-di-peperoncini.html"
+        },
+        {
+            "name": "Sfoglie classiche con fichi, grana e miele",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-fichi-grana-e-miele.html"
+        },
+        {
+            "name": "Frittata con barba di frate",
+            "link": "https://ricette.giallozafferano.it/Frittata-alla-barba-di-frate.html"
+        },
+        {
+            "name": "Bocconcini di zucchine e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-zucchine-e-salsiccia.html"
+        },
+        {
+            "name": "Bocconcini di merluzzo e speck",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-merluzzo-e-speck.html"
+        },
+        {
+            "name": "Frittata ai piselli fave e fagiolini",
+            "link": "https://ricette.giallozafferano.it/Frittata-ai-piselli-fave-e-fagiolini.html"
+        },
+        {
+            "name": "Samosa di tonno",
+            "link": "https://ricette.giallozafferano.it/Samosa-di-tonno.html"
+        },
+        {
+            "name": "Torcelli con tzatziki smirneico",
+            "link": "https://ricette.giallozafferano.it/Torcelli-con-tzatziki.html"
+        },
+        {
+            "name": "Salmone in carpione con julienne di verdure",
+            "link": "https://ricette.giallozafferano.it/Salmone-in-carpione-con-julienne-di-verdure.html"
+        },
+        {
+            "name": "Tartine con gelatina",
+            "link": "https://ricette.giallozafferano.it/Tartine-con-gelatina.html"
+        },
+        {
+            "name": "Fagottini di asparagi",
+            "link": "https://ricette.giallozafferano.it/Fagottini-di-asparagi.html"
+        },
+        {
+            "name": "Schiacciate con crema di mortadella e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-crema-di-mortadella-e-pistacchi.html"
+        },
+        {
+            "name": "Madeleine salate",
+            "link": "https://ricette.giallozafferano.it/Madeleine-salate.html"
+        },
+        {
+            "name": "Chupitos di melone con fagottini di feta",
+            "link": "https://ricette.giallozafferano.it/Chupitos-di-melone-con-fagottini-di-feta.html"
+        },
+        {
+            "name": "Insalata di polpo con finocchi e arance",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-polpo-con-finocchi-e-arance.html"
+        },
+        {
+            "name": "Polpette con mortadella e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Polpette-con-mortadella-e-pistacchi.html"
+        },
+        {
+            "name": "Pancake integrali senza latte, uova, burro con mojito analcolico",
+            "link": "https://ricette.giallozafferano.it/Pancakes-integrali-senza-latte-uova-burro-con-mojito-analcolico.html"
+        },
+        {
+            "name": "Chiocciole di pane ripiene di cubetti di cotto e fontina",
+            "link": "https://ricette.giallozafferano.it/Chiocciole-di-pane-ripiene-di-cotto-e-fontina.html"
+        },
+        {
+            "name": "Cappuccino di zucca",
+            "link": "https://ricette.giallozafferano.it/Cappuccino-di-zucca.html"
+        },
+        {
+            "name": "Chutney di albicocche",
+            "link": "https://ricette.giallozafferano.it/Chutney-di-albicocche.html"
+        },
+        {
+            "name": "Cestini croccanti con caponata di melanzane e zucchine",
+            "link": "https://ricette.giallozafferano.it/Cestini-croccanti-con-caponata-di-melanzane-e-zucchine.html"
+        },
+        {
+            "name": "Straccetti di pollo fritto allo yogurt",
+            "link": "https://ricette.giallozafferano.it/Straccetti-di-pollo-fritto-allo-yogurt.html"
+        },
+        {
+            "name": "Capesante con insalata di frutta",
+            "link": "https://ricette.giallozafferano.it/Capesante-con-insalata-di-frutta.html"
+        },
+        {
+            "name": "Carote agrodolci",
+            "link": "https://ricette.giallozafferano.it/Carote-agrodolci.html"
+        },
+        {
+            "name": "Treccia salata",
+            "link": "https://ricette.giallozafferano.it/Treccia-salata.html"
+        },
+        {
+            "name": "Sigari con caprino e miele al rosmarino",
+            "link": "https://ricette.giallozafferano.it/Sigari-con-caprino-e-miele-al-rosmarino.html"
+        },
+        {
+            "name": "Terrina di pesce e spinaci",
+            "link": "https://ricette.giallozafferano.it/Terrina-di-pesce-e-spinaci.html"
+        },
+        {
+            "name": "Pastieri ragusani",
+            "link": "https://ricette.giallozafferano.it/Pastieri-ragusani.html"
+        },
+        {
+            "name": "Saut\u00e8 di vongole all'arancia",
+            "link": "https://ricette.giallozafferano.it/Saute-di-vongole-all-arancia.html"
+        },
+        {
+            "name": "Clafoutis salato alle cipolle rosse",
+            "link": "https://ricette.giallozafferano.it/Clafoutis-salato-alle-cipolle-rosse.html"
+        },
+        {
+            "name": "Aperit\u00e8",
+            "link": "https://ricette.giallozafferano.it/Aperite.html"
+        },
+        {
+            "name": "Gelo di pomodoro",
+            "link": "https://ricette.giallozafferano.it/Gelo-di-pomodoro.html"
+        },
+        {
+            "name": "Gyoza cacio e pepe",
+            "link": "https://ricette.giallozafferano.it/Gyoza-cacio-e-pepe.html"
+        },
+        {
+            "name": "Cipolline al forno",
+            "link": "https://ricette.giallozafferano.it/Cipolline-al-forno.html"
+        },
+        {
+            "name": "Strisce di pollo alla melagrana",
+            "link": "https://ricette.giallozafferano.it/Strisce-di-pollo-alla-melagrana.html"
+        },
+        {
+            "name": "Crispelle",
+            "link": "https://ricette.giallozafferano.it/Crispelle.html"
+        },
+        {
+            "name": "Latkes",
+            "link": "https://ricette.giallozafferano.it/Latkes.html"
+        },
+        {
+            "name": "Crostata rustica all\u2019italiana",
+            "link": "https://ricette.giallozafferano.it/Crostata-rustica-all-italiana.html"
+        },
+        {
+            "name": "Sfogliette ripiene di bietole, pinoli e uvetta",
+            "link": "https://ricette.giallozafferano.it/Sfogliette-ripiene-di-bietole-pinoli-e-uvetta.html"
+        },
+        {
+            "name": "Cotolette di pleurotus",
+            "link": "https://ricette.giallozafferano.it/Cotolette-di-pleurotus.html"
+        },
+        {
+            "name": "Pizzette veloci",
+            "link": "https://ricette.giallozafferano.it/Pizzette-veloci.html"
+        },
+        {
+            "name": "Spiedini di pesce in salsa Worcestershire",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-pesce-in-salsa-Worcestershire.html"
+        },
+        {
+            "name": "Flan di merluzzo su crema di carciofi",
+            "link": "https://ricette.giallozafferano.it/Flan-di-merluzzo-su-crema-di-carciofi.html"
+        },
+        {
+            "name": "Radicchio al forno",
+            "link": "https://ricette.giallozafferano.it/Radicchio-al-forno.html"
+        },
+        {
+            "name": "Arancini agli spinaci",
+            "link": "https://ricette.giallozafferano.it/Arancini-agli-spinaci.html"
+        },
+        {
+            "name": "Schiacciate con involtini di bresaola",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-involtini-di-bresaola.html"
+        },
+        {
+            "name": "Cozze all'arancia e zenzero",
+            "link": "https://ricette.giallozafferano.it/Cozze-all-arancia-e-zenzero.html"
+        },
+        {
+            "name": "Lumache di mare in umido",
+            "link": "https://ricette.giallozafferano.it/Lumache-di-mare-in-umido.html"
+        },
+        {
+            "name": "Flan di peperoni e porri",
+            "link": "https://ricette.giallozafferano.it/Flan-di-peperoni-e-porri.html"
+        },
+        {
+            "name": "Sfoglie alla marmellata di cipolle",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alla-marmellata-di-cipolle.html"
+        },
+        {
+            "name": "Flan di patate pancetta e timo",
+            "link": "https://ricette.giallozafferano.it/Flan-di-patate-pancetta-e-timo.html"
+        },
+        {
+            "name": "Cracker al teff",
+            "link": "https://ricette.giallozafferano.it/Crackers-al-teff.html"
+        },
+        {
+            "name": "Ostriche gratinate con acciughe e capperi di Pantelleria",
+            "link": "https://ricette.giallozafferano.it/Ostriche-gratinate-con-acciughe-e-capperi-di-Pantelleria.html"
+        },
+        {
+            "name": "Tirtlan di patate e ricotta",
+            "link": "https://ricette.giallozafferano.it/Tirtlan-di-patate-e-ricotta.html"
+        },
+        {
+            "name": "Suppl\u00ec radicchio e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Suppli-radicchio-e-gorgonzola.html"
+        },
+        {
+            "name": "Insalatina con fragole al balsamico",
+            "link": "https://ricette.giallozafferano.it/Insalatina-con-fragole-al-balsamico.html"
+        },
+        {
+            "name": "Salmone marinato",
+            "link": "https://ricette.giallozafferano.it/Salmone-marinato.html"
+        },
+        {
+            "name": "Carpaccio di salmone affumicato con finocchi e arancia",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-salmone-affumicato-con-finocchi-e-arancia.html"
+        },
+        {
+            "name": "Angioletti fritti con rucola e pomodorini",
+            "link": "https://ricette.giallozafferano.it/Angioletti-fritti-con-rucola-e-pomodorini.html"
+        },
+        {
+            "name": "Triangolini di ricotta con taleggio e pere",
+            "link": "https://ricette.giallozafferano.it/Triangolini-di-ricotta-con-taleggio-e-pere.html"
+        },
+        {
+            "name": "Crostini fichi e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Crostini-fichi-e-Grana-Padano.html"
+        },
+        {
+            "name": "Bign\u00e8 con crema pasticcera al parmigiano e lime",
+            "link": "https://ricette.giallozafferano.it/Bigne-con-crema-pasticcera-al-parmigiano-e-lime.html"
+        },
+        {
+            "name": "Bannock",
+            "link": "https://ricette.giallozafferano.it/Bannock.html"
+        },
+        {
+            "name": "Rosti di patate con salmone affumicato e crema al formaggio",
+            "link": "https://ricette.giallozafferano.it/Rosti-di-patate-con-salmone-affumicato-e-crema-al-formaggio.html"
+        },
+        {
+            "name": "Spiedini di ananas e salmone al limone",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-ananas-e-salmone-al-limone.html"
+        },
+        {
+            "name": "Pecorino fritto con crema di fave",
+            "link": "https://ricette.giallozafferano.it/Pecorino-fritto-con-crema-di-fave.html"
+        },
+        {
+            "name": "Gamberi all'arancia su crema di zucca",
+            "link": "https://ricette.giallozafferano.it/Gamberi-all-arancia-su-crema-di-zucca.html"
+        },
+        {
+            "name": "Barchette di pane ripiene",
+            "link": "https://ricette.giallozafferano.it/Barchette-di-pane-ripiene.html"
+        },
+        {
+            "name": "Pancake salati al pomodoro e basilico",
+            "link": "https://ricette.giallozafferano.it/Pancakes-salati-al-pomodoro-e-basilico.html"
+        },
+        {
+            "name": "Salmone croccante su schiacciate",
+            "link": "https://ricette.giallozafferano.it/Salmone-croccante-su-schiacciate.html"
+        },
+        {
+            "name": "Pakora",
+            "link": "https://ricette.giallozafferano.it/Pakora.html"
+        },
+        {
+            "name": "Plumcake alle patate",
+            "link": "https://ricette.giallozafferano.it/Plumcake-alle-patate.html"
+        },
+        {
+            "name": "Tortine salate di agretti",
+            "link": "https://ricette.giallozafferano.it/Tortine-salate-di-agretti.html"
+        },
+        {
+            "name": "Pane ripieno",
+            "link": "https://ricette.giallozafferano.it/Pane-ripieno.html"
+        },
+        {
+            "name": "Fichi con pecorino",
+            "link": "https://ricette.giallozafferano.it/Fichi-con-pecorino.html"
+        },
+        {
+            "name": "Carciofi sott'olio",
+            "link": "https://ricette.giallozafferano.it/Carciofi-sott-olio.html"
+        },
+        {
+            "name": "Bruschette di patate dolci",
+            "link": "https://ricette.giallozafferano.it/Bruschette-di-patate-dolci.html"
+        },
+        {
+            "name": "Polpette alle cime di rapa",
+            "link": "https://ricette.giallozafferano.it/Polpette-alle-cime-di-rapa.html"
+        },
+        {
+            "name": "Frittata di finferli",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-finferli.html"
+        },
+        {
+            "name": "Croque monsieur finger food con sfoglia classica",
+            "link": "https://ricette.giallozafferano.it/Croque-monsieur-finger-food-con-sfoglia-classica.html"
+        },
+        {
+            "name": "Crocchette di riso giallo con stracchino",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-riso-giallo-con-stracchino.html"
+        },
+        {
+            "name": "Polpettine in crosta di sesamo",
+            "link": "https://ricette.giallozafferano.it/Polpettine-in-crosta-di-sesamo.html"
+        },
+        {
+            "name": "Schiacciate con peperoni e scamorza",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-peperoni-e-scamorza.html"
+        },
+        {
+            "name": "Pane di Babbo Natale",
+            "link": "https://ricette.giallozafferano.it/Pane-di-Babbo-Natale.html"
+        },
+        {
+            "name": "Bicchierini di caponata con tonno e tzatziki",
+            "link": "https://ricette.giallozafferano.it/Bicchierini-di-caponata-con-tonno-e-tzatziki.html"
+        },
+        {
+            "name": "Temaki di salmone",
+            "link": "https://ricette.giallozafferano.it/Temaki-di-salmone.html"
+        },
+        {
+            "name": "Scones alla zucca",
+            "link": "https://ricette.giallozafferano.it/Scones-alla-zucca.html"
+        },
+        {
+            "name": "Pomodorini gratinati ripieni di bulgur",
+            "link": "https://ricette.giallozafferano.it/Pomodorini-gratinati-ripieni-di-bulgur.html"
+        },
+        {
+            "name": "Uova alla messicana",
+            "link": "https://ricette.giallozafferano.it/Uova-alla-messicana.html"
+        },
+        {
+            "name": "Polpette di bollito e ricotta",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-bollito-e-ricotta.html"
+        },
+        {
+            "name": "Involtini fritti di melanzane e gamberoni",
+            "link": "https://ricette.giallozafferano.it/Involtini-fritti-di-melanzane-e-gamberoni.html"
+        },
+        {
+            "name": "Krapfen salati con patate e Emmentaler",
+            "link": "https://ricette.giallozafferano.it/Krapfen-salati-con-patate-e-Emmentaler.html"
+        },
+        {
+            "name": "Gamberoni saltati con fichi e menta",
+            "link": "https://ricette.giallozafferano.it/Gamberoni-saltati-con-fichi-e-menta.html"
+        },
+        {
+            "name": "Tortino di polenta con cuore fondente",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-polenta-con-cuore-fondente.html"
+        },
+        {
+            "name": "Formaggio spalmabile all'avocado",
+            "link": "https://ricette.giallozafferano.it/Formaggio-spalmabile-all-avocado.html"
+        },
+        {
+            "name": "Fantasia di rustici",
+            "link": "https://ricette.giallozafferano.it/Fantasia-di-rustici.html"
+        },
+        {
+            "name": "Chiocciola di sfoglia con gorgonzola e mortadella",
+            "link": "https://ricette.giallozafferano.it/Chiocciola-di-sfoglia-con-gorgonzola-e-mortadella.html"
+        },
+        {
+            "name": "Sfoglie classiche con quark e salmone ",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-quark-e-salmone.html"
+        },
+        {
+            "name": "Muffin pancetta e zafferano",
+            "link": "https://ricette.giallozafferano.it/Muffin-pancetta-e-zafferano.html"
+        },
+        {
+            "name": "Sfoglie classiche con hummus",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-classica-con-hummus.html"
+        },
+        {
+            "name": "Biscotti salati senza glutine",
+            "link": "https://ricette.giallozafferano.it/Biscotti-salati-senza-glutine.html"
+        },
+        {
+            "name": "Topolini di uova",
+            "link": "https://ricette.giallozafferano.it/Topolini-di-uova.html"
+        },
+        {
+            "name": "Uova ripiene con pane profumato",
+            "link": "https://ricette.giallozafferano.it/Uova-ripiene-con-pane-profumato.html"
+        },
+        {
+            "name": "Alette di pollo",
+            "link": "https://ricette.giallozafferano.it/Alette-di-pollo-finto-fritto-al-forno.html"
+        },
+        {
+            "name": "Strudel di pasta di pane con verdure e robiola",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-pasta-di-pane-con-verdure-e-robiola.html"
+        },
+        {
+            "name": "Crostata morbida con zucchine e salmone",
+            "link": "https://ricette.giallozafferano.it/Crostata-morbida-con-zucchine-e-salmone.html"
+        },
+        {
+            "name": "Tortini integrali con verdure e tonno",
+            "link": "https://ricette.giallozafferano.it/Tortini-integrali-con-verdure-e-tonno.html"
+        },
+        {
+            "name": "Vellutata di lenticchie in crosta",
+            "link": "https://ricette.giallozafferano.it/Vellutata-di-lenticchie-in-crosta.html"
+        },
+        {
+            "name": "Lasagne di zucca con crema di funghi e scamorza",
+            "link": "https://ricette.giallozafferano.it/Lasagne-di-zucca-con-crema-di-funghi-e-scamorza.html"
+        },
+        {
+            "name": "Spiedini di tofu marinato e verdure",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-tofu-marinato-e-verdure.html"
+        },
+        {
+            "name": "Grissini al Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Grissini-al-Grana-Padano.html"
+        },
+        {
+            "name": "Polpette di rucola",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-rucola.html"
+        },
+        {
+            "name": "Fagottini al prosciutto",
+            "link": "https://ricette.giallozafferano.it/Fagottini-al-prosciutto.html"
+        },
+        {
+            "name": "Frittelle di scarola",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-scarola.html"
+        },
+        {
+            "name": "Asparagi allo zabaione salato",
+            "link": "https://ricette.giallozafferano.it/Asparagi-allo-zabaione-salato.html"
+        },
+        {
+            "name": "Madeleine salate alle olive",
+            "link": "https://ricette.giallozafferano.it/Madeleine-salate-alle-olive.html"
+        },
+        {
+            "name": "Sfoglie classiche con insalata di polpo",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-insalata-di-polpo.html"
+        },
+        {
+            "name": "Caponata su sfoglie alle olive",
+            "link": "https://ricette.giallozafferano.it/Caponata-su-sfoglie-alle-olive.html"
+        },
+        {
+            "name": "Danubio veloce di Natale",
+            "link": "https://ricette.giallozafferano.it/Danubio-veloce-di-Natale.html"
+        },
+        {
+            "name": "Torta salata zucca, funghi e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-zucca-funghi-e-Grana-Padano.html"
+        },
+        {
+            "name": "Bign\u00e8 al formaggio",
+            "link": "https://ricette.giallozafferano.it/Bigne-al-formaggio.html"
+        },
+        {
+            "name": "Plumcake con verdure e edamer",
+            "link": "https://ricette.giallozafferano.it/Plumcake-con-verdure-e-edamer.html"
+        },
+        {
+            "name": "Finger food di cetrioli e hummus",
+            "link": "https://ricette.giallozafferano.it/Finger-food-di-cetrioli-e-hummus.html"
+        },
+        {
+            "name": "Saccottini salati",
+            "link": "https://ricette.giallozafferano.it/Saccottini-salati.html"
+        },
+        {
+            "name": "Castagnole salate",
+            "link": "https://ricette.giallozafferano.it/Castagnole-salate.html"
+        },
+        {
+            "name": "Involtini di pancarr\u00e8 prosciutto e formaggio",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-pancarre-prosciutto-e-formaggio.html"
+        },
+        {
+            "name": "Ghiaccioli salati",
+            "link": "https://ricette.giallozafferano.it/Ghiaccioli-salati.html"
+        },
+        {
+            "name": "Coppette di pasta fillo con patate e briciole di salame",
+            "link": "https://ricette.giallozafferano.it/Coppette-di-pasta-fillo-con-patate-e-briciole-di-salame.html"
+        },
+        {
+            "name": "Carciofi pastellati e fritti",
+            "link": "https://ricette.giallozafferano.it/Carciofi-pastellati-e-fritti.html"
+        },
+        {
+            "name": "Schiacciate con tartare di salmone e cipollotto",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-tartare-di-salmone-e-cipollotto.html"
+        },
+        {
+            "name": "Frittura di asparagi con salsa",
+            "link": "https://ricette.giallozafferano.it/Frittura-di-asparagi-con-salsa.html"
+        },
+        {
+            "name": "Mini crumble alle verdure e yogurt",
+            "link": "https://ricette.giallozafferano.it/Mini-crumble-alle-verdure-e-yogurt.html"
+        },
+        {
+            "name": "Crostini di mela con bacon e formaggio",
+            "link": "https://ricette.giallozafferano.it/Crostini-di-mela-con-bacon-e-formaggio.html"
+        },
+        {
+            "name": "Tris di canap\u00e8 di pan brioche con gamberi",
+            "link": "https://ricette.giallozafferano.it/Tris-di-canape-di-pan-brioche-con-gamberi.html"
+        },
+        {
+            "name": "Millefoglie di cotechino e lenticchie",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-di-cotechino-e-lenticchie.html"
+        },
+        {
+            "name": "Tortine pasqualine con piselli",
+            "link": "https://ricette.giallozafferano.it/Tortine-pasqualine-con-piselli.html"
+        },
+        {
+            "name": "Empanadas con gorgonzola e porri",
+            "link": "https://ricette.giallozafferano.it/Empanadas-con-gorgonzola-e-porri.html"
+        },
+        {
+            "name": "Parmigiana di carciofi",
+            "link": "https://ricette.giallozafferano.it/Parmigiana-di-carciofi.html"
+        },
+        {
+            "name": "Coppette con insalata di rucola, barbabietole, noci e ravanelli",
+            "link": "https://ricette.giallozafferano.it/Coppette-con-insalata-di-rucola-barbabietole-noci-e-ravanelli.html"
+        },
+        {
+            "name": "Fave, pecorino e pancetta",
+            "link": "https://ricette.giallozafferano.it/Fave-pecorino-e-pancetta.html"
+        },
+        {
+            "name": "Conetti primavera",
+            "link": "https://ricette.giallozafferano.it/Conetti-primavera.html"
+        },
+        {
+            "name": "Tortine con polpa di granchio",
+            "link": "https://ricette.giallozafferano.it/Tortine-con-polpa-di-granchio.html"
+        },
+        {
+            "name": "Cestini di phillo al salmone e crema di zucchine",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-phillo-al-salmone-e-crema-di-zucchine.html"
+        },
+        {
+            "name": "Biscotti agli spinaci con crema al salmone",
+            "link": "https://ricette.giallozafferano.it/Biscotti-agli-spinaci-con-crema-al-salmone.html"
+        },
+        {
+            "name": "Frittata di carciofi, funghi e pancetta affumicata",
+            "link": "https://ricette.giallozafferano.it/Frittata-di-carciofi-funghi-e-pancetta-affumicata.html"
+        },
+        {
+            "name": "Filetti di tonno con salsa ai capperi",
+            "link": "https://ricette.giallozafferano.it/Filetti-di-tonno-con-salsa-ai-capperi.html"
+        },
+        {
+            "name": "Ciambella broccoli e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Ciambella-broccoli-e-salsiccia.html"
+        },
+        {
+            "name": "Crostini di finferli e groviera",
+            "link": "https://ricette.giallozafferano.it/Crostini-di-finferli-e-groviera.html"
+        },
+        {
+            "name": "Tartina in bicchiere",
+            "link": "https://ricette.giallozafferano.it/Tartina-in-bicchiere.html"
+        },
+        {
+            "name": "Sfoglie con crema di cannellini e gamberi saut\u00e8 ",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-crema-di-cannellini-e-gamberi-saute.html"
+        },
+        {
+            "name": "Schiacciate con carpaccio di manzo, rucola e sbrinz",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-carpaccio-di-manzo-rucola-e-sbrinz.html"
+        },
+        {
+            "name": "Schiacciata di patate olive e tonno",
+            "link": "https://ricette.giallozafferano.it/Schiacciata-di-patate-olive-e-tonno.html"
+        },
+        {
+            "name": "Popcorn al caramello salato",
+            "link": "https://ricette.giallozafferano.it/Popcorn-al-caramello-salato.html"
+        },
+        {
+            "name": "Terrine gratinate di polenta e funghi porcini",
+            "link": "https://ricette.giallozafferano.it/Terrine-gratinate-di-polenta-e-funghi-porcini.html"
+        },
+        {
+            "name": "Frittata ai ravanelli",
+            "link": "https://ricette.giallozafferano.it/Frittata-ai-ravanelli.html"
+        },
+        {
+            "name": "Triglie ripiene e fritte",
+            "link": "https://ricette.giallozafferano.it/Triglie-ripiene-e-fritte.html"
+        },
+        {
+            "name": "Rosa emiliana",
+            "link": "https://ricette.giallozafferano.it/Rosa-emiliana.html"
+        },
+        {
+            "name": "Schiacciate con tonno in crosta",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-tonno-in-crosta.html"
+        },
+        {
+            "name": "Quiche ai 4 formaggi",
+            "link": "https://ricette.giallozafferano.it/Quiche-ai-4-formaggi.html"
+        },
+        {
+            "name": "Tortine di patate con salsa di arachidi",
+            "link": "https://ricette.giallozafferano.it/Tortine-di-patate-con-salsa-di-arachidi.html"
+        },
+        {
+            "name": "Terrina di baccal\u00e0 con salsa di mele",
+            "link": "https://ricette.giallozafferano.it/Terrina-di-baccala-con-salsa-di-mele.html"
+        },
+        {
+            "name": "Rotolo ai piselli con crudo e pomodori secchi",
+            "link": "https://ricette.giallozafferano.it/Rotolo-ai-piselli-con-crudo-e-pomodori-secchi.html"
+        },
+        {
+            "name": "Insalata di daikon e gamberi",
+            "link": "https://ricette.giallozafferano.it/Insalata-di-daikon-e-gamberi.html"
+        },
+        {
+            "name": "Schiacciate con scaglie di Castelmagno e cipolle caramellate",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-scaglie-di-Castelmagno-e-cipolle-caramellate.html"
+        },
+        {
+            "name": "Involtini di zucchine al rag\u00f9",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-zucchine-al-ragu.html"
+        },
+        {
+            "name": "Broccoli in pastella",
+            "link": "https://ricette.giallozafferano.it/Broccoli-in-pastella.html"
+        },
+        {
+            "name": "Tortini di ricotta e carciofi",
+            "link": "https://ricette.giallozafferano.it/Tortini-di-ricotta-e-carciofi.html"
+        },
+        {
+            "name": "Nidi di agretti",
+            "link": "https://ricette.giallozafferano.it/Nidi-di-agretti.html"
+        },
+        {
+            "name": "Stecchi alla bolognese",
+            "link": "https://ricette.giallozafferano.it/Stecchi-alla-bolognese.html"
+        },
+        {
+            "name": "Terrina di porcini",
+            "link": "https://ricette.giallozafferano.it/Terrina-di-porcini.html"
+        },
+        {
+            "name": "Schiacciatina con pomodori e ricotta",
+            "link": "https://ricette.giallozafferano.it/Schiacciatina-con-pomodori-e-ricotta.html"
+        },
+        {
+            "name": "Frittatine di lampascioni",
+            "link": "https://ricette.giallozafferano.it/Frittatine-di-lampascioni.html"
+        },
+        {
+            "name": "Bocconcini di pane alle carote",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-pane-alle-carote.html"
+        },
+        {
+            "name": "Crostino con uovo poch\u00e9",
+            "link": "https://ricette.giallozafferano.it/Crostino-con-uovo-poche.html"
+        },
+        {
+            "name": "Carpaccio di fichi e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-fichi-e-gorgonzola.html"
+        },
+        {
+            "name": "Bocconcini di salmone con insalata al pompelmo",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-salmone-con-insalata-al-pompelmo.html"
+        },
+        {
+            "name": "Ravanelli ripieni",
+            "link": "https://ricette.giallozafferano.it/Ravanelli-ripieni.html"
+        },
+        {
+            "name": "Carpaccio di salmone con guacamole al lime",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-salmone-con-guacamole-al-lime.html"
+        },
+        {
+            "name": "Budini di riso salati",
+            "link": "https://ricette.giallozafferano.it/Budini-di-riso-salati.html"
+        },
+        {
+            "name": "Toast al tonno e crescenza",
+            "link": "https://ricette.giallozafferano.it/Toast-al-tonno-e-crescenza.html"
+        },
+        {
+            "name": "Muffin rossi",
+            "link": "https://ricette.giallozafferano.it/Muffin-rossi.html"
+        },
+        {
+            "name": "Cassata salata",
+            "link": "https://ricette.giallozafferano.it/Cassata-salata.html"
+        },
+        {
+            "name": "Fagottini alla ricotta e scarola",
+            "link": "https://ricette.giallozafferano.it/Fagottini-alla-ricotta-e-scarola.html"
+        },
+        {
+            "name": "Sfoglie con battuto di lardo al rosmarino",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-battuto-di-lardo-al-rosmarino.html"
+        },
+        {
+            "name": "Mini pie salate di formaggio e mele",
+            "link": "https://ricette.giallozafferano.it/Mini-pie-salate-di-formaggio-e-mele.html"
+        },
+        {
+            "name": "Cestini di Parmigiano con insalata croccante alle mele",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-Parmigiano-con-insalata-croccante-alle-mele.html"
+        },
+        {
+            "name": "Toast di patate alla pizzaiola",
+            "link": "https://ricette.giallozafferano.it/Toast-di-patate-alla-pizzaiola.html"
+        },
+        {
+            "name": "Insalata russa dell'orto",
+            "link": "https://ricette.giallozafferano.it/Insalata-russa-dell-orto.html"
+        },
+        {
+            "name": "Schiacciatine con bresaola e rucola",
+            "link": "https://ricette.giallozafferano.it/Schiacciatine-con-bresaola-e-rucola.html"
+        },
+        {
+            "name": "Biscotti con semi di chia",
+            "link": "https://ricette.giallozafferano.it/Biscotti-con-semi-di-chia.html"
+        },
+        {
+            "name": "Cuoricini con caprino ed erba cipollina",
+            "link": "https://ricette.giallozafferano.it/Cuoricini-con-caprino-ed-erba-cipollina.html"
+        },
+        {
+            "name": "Strudel rosso al pomodoro con ripieno di tonno, broccolo e porro",
+            "link": "https://ricette.giallozafferano.it/Strudel-rosso-al-pomodoro-con-ripieno-di-tonno-broccolo-e-porro.html"
+        },
+        {
+            "name": "Crostino con anguria marinata e formaggio",
+            "link": "https://ricette.giallozafferano.it/Crostino-con-anguria-marinata-e-formaggio.html"
+        },
+        {
+            "name": "Cordon bleu di zucca",
+            "link": "https://ricette.giallozafferano.it/Cordon-bleu-di-zucca.html"
+        },
+        {
+            "name": "Bign\u00e8 salati con crema di Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Bigne-salati-con-crema-di-Grana-Padano.html"
+        },
+        {
+            "name": "Focaccia di Carnevale",
+            "link": "https://ricette.giallozafferano.it/Focaccia-di-Carnevale.html"
+        },
+        {
+            "name": "Muffin al formaggio",
+            "link": "https://ricette.giallozafferano.it/Muffin-al-formaggio.html"
+        },
+        {
+            "name": "Rosti di lenticchie con rana pescatrice",
+            "link": "https://ricette.giallozafferano.it/Rosti-di-lenticchie-con-rana-pescatrice.html"
+        },
+        {
+            "name": "Crostata con pesto misto e pancetta",
+            "link": "https://ricette.giallozafferano.it/Crostata-con-pesto-misto-e-pancetta.html"
+        },
+        {
+            "name": "Focaccine di patate alla birra",
+            "link": "https://ricette.giallozafferano.it/Focaccine-di-patate-alla-birra.html"
+        },
+        {
+            "name": "Pane ripieno di lardo e fichi",
+            "link": "https://ricette.giallozafferano.it/Pane-ripeno-di-lardo-e-fichi.html"
+        },
+        {
+            "name": "Spianatine con cipolle e formaggio",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-cipolle-e-formaggio.html"
+        },
+        {
+            "name": "Profiteroles salati con crema al groviera",
+            "link": "https://ricette.giallozafferano.it/Profiteroles-salati-con-crema-al-groviera.html"
+        },
+        {
+            "name": "Caramelle ripiene di patate e salsiccia alle erbe aromatiche",
+            "link": "https://ricette.giallozafferano.it/Caramelle-ripiene-di-patate-e-salsiccia-alle-erbe-aromatiche.html"
+        },
+        {
+            "name": "Spiedini di mozzarella e acciughe fritti",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-mozzarella-e-acciughe-fritti.html"
+        },
+        {
+            "name": "Sbriciolata salata con mortadella e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Sbriciolata-salata-con-mortadella-e-pistacchi.html"
+        },
+        {
+            "name": "Uova colorate",
+            "link": "https://ricette.giallozafferano.it/Uova-colorate.html"
+        },
+        {
+            "name": "Tartare di gamberi e anguria",
+            "link": "https://ricette.giallozafferano.it/Tartare-di-gamberi-e-anguria.html"
+        },
+        {
+            "name": "Crocchette di polpo su crema di patate allo zafferano",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-polpo-su-crema-di-patate-allo-zafferano.html"
+        },
+        {
+            "name": "Tatin ai finocchi",
+            "link": "https://ricette.giallozafferano.it/Tatin-ai-finocchi.html"
+        },
+        {
+            "name": "Girelle di pizza",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-pizza.html"
+        },
+        {
+            "name": "Rosti di zucchine e patate con fonduta al Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Rosti-di-zucchine-e-patate-con-fonduta-al-Grana-Padano.html"
+        },
+        {
+            "name": "Gazpacho con tartare di ricciola",
+            "link": "https://ricette.giallozafferano.it/Gazpacho-con-tartare-di-ricciola.html"
+        },
+        {
+            "name": "Crocchette di riso con tonno e limone",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-riso-con-tonno-e-limone.html"
+        },
+        {
+            "name": "Verdure in crosta",
+            "link": "https://ricette.giallozafferano.it/Verdure-in-crosta.html"
+        },
+        {
+            "name": "Biscotti alla paprika",
+            "link": "https://ricette.giallozafferano.it/Biscotti-alla-paprika.html"
+        },
+        {
+            "name": "Polpette di quinoa e verdure",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-quinoa-e-verdure.html"
+        },
+        {
+            "name": "Arancini con rag\u00f9 di fagioli",
+            "link": "https://ricette.giallozafferano.it/Arancini-con-ragu-di-fagioli.html"
+        },
+        {
+            "name": "Schiacciata di patate",
+            "link": "https://ricette.giallozafferano.it/Schiacciata-di-patate.html"
+        },
+        {
+            "name": "Tortini di canocchie",
+            "link": "https://ricette.giallozafferano.it/Tortini-di-canocchie.html"
+        },
+        {
+            "name": "Sfoglie classiche con bresaola alla vinaigrette",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-bresaola-alla-vinaigrette.html"
+        },
+        {
+            "name": "Sandwich di polenta con salmone e crescenza",
+            "link": "https://ricette.giallozafferano.it/Sandwich-di-polenta-con-salmone-e-crescenza.html"
+        },
+        {
+            "name": "Tronchetto salato con mousse di salmone, asparagi e mazzancolle",
+            "link": "https://ricette.giallozafferano.it/Tronchetto-salato-con-mousse-di-salmone-asparagi-e-mazzancolle.html"
+        },
+        {
+            "name": "Cipolle ripiene al tartufo",
+            "link": "https://ricette.giallozafferano.it/Cipolle-ripiene-al-tartufo.html"
+        },
+        {
+            "name": "Merluzzo mantecato con yogurt e patate viola",
+            "link": "https://ricette.giallozafferano.it/Merluzzo-mantecato-con-yogurt-e-patate-viola.html"
+        },
+        {
+            "name": "Pere al forno",
+            "link": "https://ricette.giallozafferano.it/Pere-al-forno.html"
+        },
+        {
+            "name": "Funghi fritti con maionese di barbabietola",
+            "link": "https://ricette.giallozafferano.it/Funghi-fritti-con-maionese-di-barbabietola.html"
+        },
+        {
+            "name": "Fagottini di speck ripieni di robiola con torcelli ",
+            "link": "https://ricette.giallozafferano.it/Fagottini-di-speck-ripieni-di-robiola-con-torcelli.html"
+        },
+        {
+            "name": "Pane di San Petronio",
+            "link": "https://ricette.giallozafferano.it/Pane-di-San-Petronio.html"
+        },
+        {
+            "name": "Nugget di broccoli",
+            "link": "https://ricette.giallozafferano.it/Nuggets-di-broccoli.html"
+        },
+        {
+            "name": "Crostino di patate dolci",
+            "link": "https://ricette.giallozafferano.it/Crostino-di-patate-dolci.html"
+        },
+        {
+            "name": "Cracker di lupini",
+            "link": "https://ricette.giallozafferano.it/Cracker-di-lupini.html"
+        },
+        {
+            "name": "Zeppole ai carciofi",
+            "link": "https://ricette.giallozafferano.it/Zeppole-ai-carciofi.html"
+        },
+        {
+            "name": "Spiedini di speck e mele",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-speck-e-mele.html"
+        },
+        {
+            "name": "Baccal\u00e0 in pastella",
+            "link": "https://ricette.giallozafferano.it/Baccala-in-pastella.html"
+        },
+        {
+            "name": "Mini bavaresi di zucca con salsa al parmigiano",
+            "link": "https://ricette.giallozafferano.it/Mini-bavaresi-di-zucca-con-salsa-al-parmigiano.html"
+        },
+        {
+            "name": "Zucche misteriose di Halloween",
+            "link": "https://ricette.giallozafferano.it/Zucche-misteriose-di-Halloween.html"
+        },
+        {
+            "name": "Vellutata di lenticchie con cotechino croccante",
+            "link": "https://ricette.giallozafferano.it/Vellutata-di-lenticchie-con-cotechino-croccante.html"
+        },
+        {
+            "name": "Cuoppo di cacio e fiori",
+            "link": "https://ricette.giallozafferano.it/Cuoppo-di-cacio-e-fiori.html"
+        },
+        {
+            "name": "Spianatine con tartare di spada affumicato e menta",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-tartare-di-spada-affumicato-e-menta.html"
+        },
+        {
+            "name": "Cr\u00e8me brul\u00e9e al Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Creme-brulee-al-Grana-Padano.html"
+        },
+        {
+            "name": "Blinis di grano saraceno con tonno affumicato",
+            "link": "https://ricette.giallozafferano.it/Blinis-di-grano-saraceno-con-tonno-affumicato.html"
+        },
+        {
+            "name": "Mini suppl\u00ec con prosciutto e scamorza",
+            "link": "https://ricette.giallozafferano.it/Mini-suppli-con-prosciutto-e-scamorza.html"
+        },
+        {
+            "name": "Albicocche in sfoglia",
+            "link": "https://ricette.giallozafferano.it/Albicocche-in-sfoglia.html"
+        },
+        {
+            "name": "Sformatino di patate con insalata di carciofi",
+            "link": "https://ricette.giallozafferano.it/Sformatino-di-patate-con-insalata-di-carciofi.html"
+        },
+        {
+            "name": "Edamer croccante",
+            "link": "https://ricette.giallozafferano.it/Edamer-croccante.html"
+        },
+        {
+            "name": "Scones salati alle patate",
+            "link": "https://ricette.giallozafferano.it/Scones-salati-alle-patate.html"
+        },
+        {
+            "name": "Schiacciate con melanzane scamorza e pomodori secchi",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-melanzane-scamorza-e-pomodori-secchi.html"
+        },
+        {
+            "name": "Bocconcini di pane con tonno e avocado",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-pane-con-tonno-e-avocado.html"
+        },
+        {
+            "name": "Sfoglie con agretti e nduja",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-agretti-e-nduja.html"
+        },
+        {
+            "name": "Patate schiacciate",
+            "link": "https://ricette.giallozafferano.it/Patate-schiacciate.html"
+        },
+        {
+            "name": "Tortino di verdure filante",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-verdure-filante.html"
+        },
+        {
+            "name": "Bign\u00e8 di granchio e formaggio",
+            "link": "https://ricette.giallozafferano.it/Bigne-di-granchio-e-formaggio.html"
+        },
+        {
+            "name": "Millefoglie di tofu e melanzane",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-di-tofu-e-melanzane.html"
+        },
+        {
+            "name": "Focaccia al miglio",
+            "link": "https://ricette.giallozafferano.it/Focaccia-al-miglio.html"
+        },
+        {
+            "name": "Crostone burro e sardine",
+            "link": "https://ricette.giallozafferano.it/Crostone-burro-e-sardine.html"
+        },
+        {
+            "name": "Crostatine capresi",
+            "link": "https://ricette.giallozafferano.it/Crostatine-capresi.html"
+        },
+        {
+            "name": "Macarons caprese",
+            "link": "https://ricette.giallozafferano.it/Macarons-caprese.html"
+        },
+        {
+            "name": "Panna cotta con coulis di pomodorini",
+            "link": "https://ricette.giallozafferano.it/Panna-cotta-con-coulis-di-pomodorini.html"
+        },
+        {
+            "name": "Amuse-bouche di polenta e capasanta",
+            "link": "https://ricette.giallozafferano.it/Amuse-bouche-di-polenta-e-capasanta.html"
+        },
+        {
+            "name": "Arancini con zucchine",
+            "link": "https://ricette.giallozafferano.it/Arancini-con-zucchine.html"
+        },
+        {
+            "name": "Cestini di pancarr\u00e8 ripieni",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-pancarre-ripieni.html"
+        },
+        {
+            "name": "Sfoglie alle olive con zucchine trifolate",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-zucchine-trifolate.html"
+        },
+        {
+            "name": "Canestrelli salati",
+            "link": "https://ricette.giallozafferano.it/Canestrelli-salati.html"
+        },
+        {
+            "name": "Mini gateau di lenticchie",
+            "link": "https://ricette.giallozafferano.it/Mini-gateau-di-lenticchie.html"
+        },
+        {
+            "name": "Bicchierini alla birra con crema al parmigiano",
+            "link": "https://ricette.giallozafferano.it/Bicchierini-alla-birra-con-crema-al-parmigiano.html"
+        },
+        {
+            "name": "Poke temaki wrap",
+            "link": "https://ricette.giallozafferano.it/Poke-temaki-wrap.html"
+        },
+        {
+            "name": "Mini cornetti salati al salmone e stracchino",
+            "link": "https://ricette.giallozafferano.it/Mini-cornetti-salati-al-salmone-e-stracchino.html"
+        },
+        {
+            "name": "Chips di verdure",
+            "link": "https://ricette.giallozafferano.it/Chips-di-verdure.html"
+        },
+        {
+            "name": "Caprese decadente",
+            "link": "https://ricette.giallozafferano.it/Caprese-decadente.html"
+        },
+        {
+            "name": "Focaccine senza glutine",
+            "link": "https://ricette.giallozafferano.it/Focaccine-senza-glutine.html"
+        },
+        {
+            "name": "Flan di Bettelmatt",
+            "link": "https://ricette.giallozafferano.it/Flan-di-Bettelmatt.html"
+        },
+        {
+            "name": "Crocchette di spinaci",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-spinaci.html"
+        },
+        {
+            "name": "Cono di capocollo ripieno su sfoglie classiche",
+            "link": "https://ricette.giallozafferano.it/Cono-di-capocollo-ripieno-su-sfoglie-classiche.html"
+        },
+        {
+            "name": "Panzerotti ripieni di verdure e scamorza",
+            "link": "https://ricette.giallozafferano.it/Panzerotti-ripieni-di-verdure-e-scamorza.html"
+        },
+        {
+            "name": "Frittelle al salame piccante",
+            "link": "https://ricette.giallozafferano.it/Frittelle-al-salame-piccante.html"
+        },
+        {
+            "name": "Strudel al radicchio",
+            "link": "https://ricette.giallozafferano.it/Strudel-al-radicchio.html"
+        },
+        {
+            "name": "Ciambella salata con formaggio e friarielli",
+            "link": "https://ricette.giallozafferano.it/Ciambella-salata-con-formaggio-e-friarielli.html"
+        },
+        {
+            "name": "Eclair salati vegetariani",
+            "link": "https://ricette.giallozafferano.it/Eclair-salati-vegetariani.html"
+        },
+        {
+            "name": "Souffl\u00e9  alla zucca e paprika con crema di burrata",
+            "link": "https://ricette.giallozafferano.it/Souffle-alla-zucca-e-paprika-con-crema-di-burrata.html"
+        },
+        {
+            "name": "Cacio fritto",
+            "link": "https://ricette.giallozafferano.it/Cacio-fritto.html"
+        },
+        {
+            "name": "Roselline di crudo su sfoglie classiche",
+            "link": "https://ricette.giallozafferano.it/Roselline-di-crudo-su-sfoglie-classiche.html"
+        },
+        {
+            "name": "Sedano di Verona in salsa maionese",
+            "link": "https://ricette.giallozafferano.it/Sedano-di-Verona-in-salsa-maionese.html"
+        },
+        {
+            "name": "Crostatine con crema di Grana Padano e porri",
+            "link": "https://ricette.giallozafferano.it/Crostatine-con-crema-di-Grana-Padano-e-porri.html"
+        },
+        {
+            "name": "Bocconcini di mozzarella e sardine",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-mozzarella-e-sardine.html"
+        },
+        {
+            "name": "Pane e salame",
+            "link": "https://ricette.giallozafferano.it/Pane-e-salame.html"
+        },
+        {
+            "name": "Strudel lasagna",
+            "link": "https://ricette.giallozafferano.it/Strudel-lasagna.html"
+        },
+        {
+            "name": "Muffin agli asparagi",
+            "link": "https://ricette.giallozafferano.it/Muffin-agli-asparagi.html"
+        },
+        {
+            "name": "Crostino con uova alla benedict e pancetta",
+            "link": "https://ricette.giallozafferano.it/Crostino-con-uova-alla-benedict-e-pancetta.html"
+        },
+        {
+            "name": "Friselle con verdure e salsa al taleggio",
+            "link": "https://ricette.giallozafferano.it/Friselle-con-verdure-e-salsa-al-taleggio.html"
+        },
+        {
+            "name": "Sfilati alle olive avvolti in mortadella e robiola",
+            "link": "https://ricette.giallozafferano.it/Sfilati-alle-olive-avvolti-in-mortadella-e-robiola.html"
+        },
+        {
+            "name": "Carpaccio di ananas e speck",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-ananas-e-speck.html"
+        },
+        {
+            "name": "Polpette pere e Blu di capra",
+            "link": "https://ricette.giallozafferano.it/Polpette-pere-e-Blu-di-capra.html"
+        },
+        {
+            "name": "Spianatine con julienne di porro e speck",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-julienne-di-porro-e-speck.html"
+        },
+        {
+            "name": "Cartocci di fave e formaggio",
+            "link": "https://ricette.giallozafferano.it/Cartocci-di-fave-e-formaggio.html"
+        },
+        {
+            "name": "Tortine di ortiche",
+            "link": "https://ricette.giallozafferano.it/Tortine-di-ortiche.html"
+        },
+        {
+            "name": "Gamberoni fritti alla paprika",
+            "link": "https://ricette.giallozafferano.it/Gamberoni-fritti-alla-paprika.html"
+        },
+        {
+            "name": "Cestini all'ortolana",
+            "link": "https://ricette.giallozafferano.it/Cestini-all-ortolana.html"
+        },
+        {
+            "name": "Coni con straccetti di manzo e verdure croccanti",
+            "link": "https://ricette.giallozafferano.it/Coni-con-straccetti-di-manzo-e-verdure-croccanti.html"
+        },
+        {
+            "name": "Sfoglie con Caciocavallo e tartufo",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-Caciocavallo-e-tartufo.html"
+        },
+        {
+            "name": "Sfoglie alle olive con pesto e ricotta",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-pesto-e-ricotta.html"
+        },
+        {
+            "name": "Millefoglie Pantesca",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-Pantesca.html"
+        },
+        {
+            "name": "Barchette con baccal\u00e0 mantecato",
+            "link": "https://ricette.giallozafferano.it/Barchette-con-baccala-mantecato.html"
+        },
+        {
+            "name": "Schiacciate con crema di squacquerone e culatello",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-crema-di-squacquerone-e-culatello.html"
+        },
+        {
+            "name": "Pizzette di riso",
+            "link": "https://ricette.giallozafferano.it/Pizzette-di-riso.html"
+        },
+        {
+            "name": "Spianatine con mele e speck",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-mele-e-speck.html"
+        },
+        {
+            "name": "Crema di cavolfiore con torcello",
+            "link": "https://ricette.giallozafferano.it/Crema-di-cavolfiore-con-torcello.html"
+        },
+        {
+            "name": "Crostoni con verza, casera e speck",
+            "link": "https://ricette.giallozafferano.it/Crostoni-con-verza-casera-e-speck.html"
+        },
+        {
+            "name": "Sfoglie alle olive con pomodoro e briciole di feta",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-pomodoro-e-briciole-di-feta.html"
+        },
+        {
+            "name": "Schiacciate con pollo alla paprika e peperoni rossi",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-pollo-alla-paprika-e-peperoni-rossi.html"
+        },
+        {
+            "name": "Colomba salata",
+            "link": "https://ricette.giallozafferano.it/Colomba-salata.html"
+        },
+        {
+            "name": "Crostone con verdure e formaggio",
+            "link": "https://ricette.giallozafferano.it/Crostone-con-verdure-e-formaggio.html"
+        },
+        {
+            "name": "Crostoni al formaggio",
+            "link": "https://ricette.giallozafferano.it/Crostoni-al-formaggio.html"
+        },
+        {
+            "name": "Mini strudel filanti con verdure",
+            "link": "https://ricette.giallozafferano.it/Mini-strudel-filanti-con-verdure.html"
+        },
+        {
+            "name": "Schiacciate con cozze, bottarga e scorza di limone",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-cozze-bottarga-e-scorza-di-limone.html"
+        },
+        {
+            "name": "Sfoglie classiche con crema al parmigiano e filetti di speck",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-crema-al-parmigiano-e-filetti-di-speck.html"
+        },
+        {
+            "name": "Chips di patate dolci con fonduta al Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Chips-di-patate-dolci-con-fonduta-al-Grana-Padano.html"
+        },
+        {
+            "name": "Involtini di cavolo alla zucca",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-cavolo-alla-zucca.html"
+        },
+        {
+            "name": "Quiche carciofi e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Quiche-carciofi-e-salsiccia.html"
+        },
+        {
+            "name": "Sformatini di cardi",
+            "link": "https://ricette.giallozafferano.it/Sformatini-di-cardi.html"
+        },
+        {
+            "name": "Bicchierini di melone e pancetta",
+            "link": "https://ricette.giallozafferano.it/Bicchierini-di-melone-e-pancetta.html"
+        },
+        {
+            "name": "Barchette di patate e formaggio cremoso",
+            "link": "https://ricette.giallozafferano.it/Barchette-di-patate-e-formaggio-cremoso.html"
+        },
+        {
+            "name": "Sedano rapa con infusione di bagna cauda",
+            "link": "https://ricette.giallozafferano.it/Sedano-rapa-con-infusione-di-bagna-cauda.html"
+        },
+        {
+            "name": "Spiedini di tonno tataki e anguria",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-tonno-tataki-e-anguria.html"
+        },
+        {
+            "name": "Torretta caprese su schiacciate",
+            "link": "https://ricette.giallozafferano.it/Torretta-caprese-su-schiacciate.html"
+        },
+        {
+            "name": "Schiacciate con pecorino sardo e miele",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-pecorino-sardo-e-miele.html"
+        },
+        {
+            "name": "Sfogliata multigusto al tonno",
+            "link": "https://ricette.giallozafferano.it/Sfogliata-multigusto-al-tonno.html"
+        },
+        {
+            "name": "Mini tatin ai funghi",
+            "link": "https://ricette.giallozafferano.it/Mini-tatin-ai-funghi.html"
+        },
+        {
+            "name": "Mini cheesecake salate con cipolle",
+            "link": "https://ricette.giallozafferano.it/Mini-cheesecake-salate-con-cipolle.html"
+        },
+        {
+            "name": "Pie pops",
+            "link": "https://ricette.giallozafferano.it/Pie-pops.html"
+        },
+        {
+            "name": "Spiedini di gnocchi gratinati",
+            "link": "https://ricette.giallozafferano.it/Spiedini-di-gnocchi-gratinati.html"
+        },
+        {
+            "name": "Involtini di polenta",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-polenta.html"
+        },
+        {
+            "name": "Pan di spagna salato al Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Pan-di-spagna-salato-al-Grana-Padano.html"
+        },
+        {
+            "name": "Fagottini con lenticchie, salsiccia e formaggio",
+            "link": "https://ricette.giallozafferano.it/Fagottini-con-lenticchie-salsiccia-e-formaggio.html"
+        },
+        {
+            "name": "Sfoglie alle olive con insalata di pollo al verde",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-insalata-di-pollo-al-verde.html"
+        },
+        {
+            "name": "Strudel salato con Asiago DOP, broccolo e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Strudel-salato-con-Asiago-broccolo-e-salsiccia.html"
+        },
+        {
+            "name": "Involtini fritti con verdura e mazzancolle",
+            "link": "https://ricette.giallozafferano.it/Involtini-fritti-con-verdura-e-mazzancolle.html"
+        },
+        {
+            "name": "Biscotti salati di Natale",
+            "link": "https://ricette.giallozafferano.it/Biscotti-salati-di-Natale.html"
+        },
+        {
+            "name": "Pancake salati con salsa al Grana Padano DOP",
+            "link": "https://ricette.giallozafferano.it/Pancake-salati-con-salsa-al-Grana-Padano-DOP.html"
+        },
+        {
+            "name": "Zucchine ripiene con branzino affumicato",
+            "link": "https://ricette.giallozafferano.it/Zucchine-ripiene-con-branzino-affumicato.html"
+        },
+        {
+            "name": "Arrotolati di salmone ripieni di verdure e formaggio",
+            "link": "https://ricette.giallozafferano.it/Arrotolati-di-salmone-ripieni-di-verdure-e-formaggio.html"
+        },
+        {
+            "name": "Blinis di mais con skyr, avocado e pomodorini arrosto",
+            "link": "https://ricette.giallozafferano.it/Blinis-di-mais-con-skyr-avocado-e-pomodorini-arrosto.html"
+        },
+        {
+            "name": "Sfoglia tex-mex",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-tex-mex.html"
+        },
+        {
+            "name": "Schiacciate con porchetta e provolone",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-porchetta-e-provolone.html"
+        },
+        {
+            "name": "Pere e speck con frutta secca",
+            "link": "https://ricette.giallozafferano.it/Pere-e-speck-con-frutta-secca.html"
+        },
+        {
+            "name": "Spianatine con pomodorino ripieno di formaggio e rucola",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-pomodorino-ripieno-di-formaggio-e-rucola.html"
+        },
+        {
+            "name": "Focaccine al rosmarino e guanciale",
+            "link": "https://ricette.giallozafferano.it/Focaccine-al-rosmarino-e-guanciale.html"
+        },
+        {
+            "name": "Biscottini animaletti salati",
+            "link": "https://ricette.giallozafferano.it/Biscottini-animaletti-salati.html"
+        },
+        {
+            "name": "Polpettine con verdure e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Polpettine-con-verdure-e-Grana-Padano.html"
+        },
+        {
+            "name": "Crostini di polenta con funghi e fonduta di Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Crostini-di-polenta-con-funghi-e-fonduta-di-Grana-Padano.html"
+        },
+        {
+            "name": "Schiacciate con nduja e olive nere infornate",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-nduja-e-olive-nere-infornate.html"
+        },
+        {
+            "name": "Sfoglie alle olive con capesante e crema di asparagi",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-capesante-e-crema-di-asparagi.html"
+        },
+        {
+            "name": "Caprese di stracchino e pomodori confit con cialda al basilico",
+            "link": "https://ricette.giallozafferano.it/Caprese-di-stracchino-e-pomodori-confit-con-cialda-al-basilico.html"
+        },
+        {
+            "name": "Sfilati con crema delicata al tartufo",
+            "link": "https://ricette.giallozafferano.it/Sfilati-con-crema-delicata-al-tartufo.html"
+        },
+        {
+            "name": "Fritto misto di frutta",
+            "link": "https://ricette.giallozafferano.it/Fritto-misto-di-frutta.html"
+        },
+        {
+            "name": "Crudo di verdure gamberi e Taleggio",
+            "link": "https://ricette.giallozafferano.it/Crudo-di-verdure-gamberi-e-Taleggio.html"
+        },
+        {
+            "name": "Spianatine con gamberetti aglio olio e peperoncino",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-gamberetti-aglio-olio-e-peperoncino.html"
+        },
+        {
+            "name": "Sfoglie classiche con pere e speck",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-pere-e-speck.html"
+        },
+        {
+            "name": "Gamberi saltati in salsa teriyaki con taccole e carotine",
+            "link": "https://ricette.giallozafferano.it/Gamberi-saltati-in-salsa-teriyaki-con-taccole-e-carotine.html"
+        },
+        {
+            "name": "Strudel di pane ripieno di salsiccia e teglia di funghi saporiti",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-pane-ripieno-di-salsiccia-e-teglia-di-funghi-saporiti.html"
+        },
+        {
+            "name": "Involtini di verza ripieni di riso e scarola",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-riso-e-scarola.html"
+        },
+        {
+            "name": "Carpaccio di coregone con cracker di Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Carpaccio-di-coregone-con-cracker-di-Grana-Padano.html"
+        },
+        {
+            "name": "Mini calzoni con tomino e spinaci",
+            "link": "https://ricette.giallozafferano.it/Mini-calzoni-con-tomino-e-spinaci.html"
+        },
+        {
+            "name": "Galette al camembert e cipolle al Bordeaux",
+            "link": "https://ricette.giallozafferano.it/Galette-al-camembert-e-cipolle-al-Bordeaux.html"
+        },
+        {
+            "name": "Torretta gastronomica",
+            "link": "https://ricette.giallozafferano.it/Torretta-gastronomica.html"
+        },
+        {
+            "name": "Frittatine di salmone al timo e taccole",
+            "link": "https://ricette.giallozafferano.it/Frittatine-di-salmone-al-timo-e-taccole.html"
+        },
+        {
+            "name": "Bocconcini di zucca, ricotta e speck",
+            "link": "https://ricette.giallozafferano.it/Bocconcini-di-zucca-ricotta-e-speck.html"
+        },
+        {
+            "name": "Tortini salati con robiola",
+            "link": "https://ricette.giallozafferano.it/Tortini-salati-con-robiola.html"
+        },
+        {
+            "name": "Sfilati al pomodoro con zucchine grigliate e crema al parmigiano",
+            "link": "https://ricette.giallozafferano.it/Sfilati-al-pomodoro-con-zucchine-grigliate-e-crema-al-parmigiano.html"
+        },
+        {
+            "name": "Panzerotti alla crema di pomodori secchi e scamorza",
+            "link": "https://ricette.giallozafferano.it/Panzerotti-alla-crema-di-pomodori-secchi-e-scamorza.html"
+        },
+        {
+            "name": "Castagnole salate al rosmarino",
+            "link": "https://ricette.giallozafferano.it/Castagnole-salate-al-rosmarino.html"
+        },
+        {
+            "name": "Baci di dama alla mortadella",
+            "link": "https://ricette.giallozafferano.it/Baci-di-dama-alla-mortadella.html"
+        },
+        {
+            "name": "Fagottino alle mele e culatello",
+            "link": "https://ricette.giallozafferano.it/Fagottino-alle-mele-e-culatello.html"
+        },
+        {
+            "name": "Mac and cheese donuts",
+            "link": "https://ricette.giallozafferano.it/Mac-and-cheese-donuts.html"
+        },
+        {
+            "name": "Rotolini con insalata di pollo spinaci e feta",
+            "link": "https://ricette.giallozafferano.it/Rotolini-con-insalata-di-pollo-spinaci-e-feta.html"
+        },
+        {
+            "name": "Piadina con sarde fritte e burrata",
+            "link": "https://ricette.giallozafferano.it/Piadina-con-sarde-fritte-e-burrata.html"
+        },
+        {
+            "name": "Pettole con olive e mozzarella DOP",
+            "link": "https://ricette.giallozafferano.it/Pettole-con-olive-e-mozzarella-DOP.html"
+        },
+        {
+            "name": "Bign\u00e8 rustici con pancetta e noci",
+            "link": "https://ricette.giallozafferano.it/Bigne-rustici-con-pancetta-e-noci.html"
+        },
+        {
+            "name": "Grissini tricolore",
+            "link": "https://ricette.giallozafferano.it/Grissini-tricolore.html"
+        },
+        {
+            "name": "Mini angeliche salate di sfoglia",
+            "link": "https://ricette.giallozafferano.it/Mini-angeliche-salate-di-sfoglia.html"
+        },
+        {
+            "name": "Torta salata cipolle e Gruy\u00e8re DOP",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-cipolle-e-Gruyere-DOP.html"
+        },
+        {
+            "name": "Torrette di patate con salmone e provola",
+            "link": "https://ricette.giallozafferano.it/Torrette-di-patate-con-salmone-e-provola.html"
+        },
+        {
+            "name": "Polpette tricolore",
+            "link": "https://ricette.giallozafferano.it/Polpette-tricolore.html"
+        },
+        {
+            "name": "Rotolini di asparagi",
+            "link": "https://ricette.giallozafferano.it/Rotolini-di-asparagi.html"
+        },
+        {
+            "name": "Focaccine con Grana Padano e rag\u00f9 di bacon e castagne",
+            "link": "https://ricette.giallozafferano.it/Focaccine-con-Grana-Padano-e-ragu-di-bacon-e-castagne.html"
+        },
+        {
+            "name": "Schiacciatine alle more e gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Schiacciatine-alle-more-e-gorgonzola.html"
+        },
+        {
+            "name": "Torta pallone salata",
+            "link": "https://ricette.giallozafferano.it/Torta-pallone-salata.html"
+        },
+        {
+            "name": "Mini strudel salati con carciofi, patate e speck",
+            "link": "https://ricette.giallozafferano.it/Mini-strudel-salati-con-carciofi-patate-e-speck.html"
+        },
+        {
+            "name": "Ostriche gratinate ai funghi",
+            "link": "https://ricette.giallozafferano.it/Ostriche-gratinate-ai-funghi.html"
+        },
+        {
+            "name": "Sfilati alle olive con prosciutto crudo e Montasio",
+            "link": "https://ricette.giallozafferano.it/Sfilati-alle-olive-con-prosciutto-crudo-e-Montasio.html"
+        },
+        {
+            "name": "Tortine di riso e tonno",
+            "link": "https://ricette.giallozafferano.it/Tortine-di-riso-e-tonno.html"
+        },
+        {
+            "name": "Triangolini ai carciofi e quartirolo",
+            "link": "https://ricette.giallozafferano.it/Triangolini-ai-carciofi-e-quartirolo.html"
+        },
+        {
+            "name": "Sfilati con prosciutto e crema di ricotta",
+            "link": "https://ricette.giallozafferano.it/Sfilati-con-prosciutto-e-crema-di-ricotta.html"
+        },
+        {
+            "name": "Frittelle di castagne sfiziose",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-castagne-sfiziose.html"
+        },
+        {
+            "name": "Tortino di carciofi con cuore filante",
+            "link": "https://ricette.giallozafferano.it/Tortino-di-carciofi-con-cuore-filante.html"
+        },
+        {
+            "name": "Mini muffin agli spinaci e caprino",
+            "link": "https://ricette.giallozafferano.it/Mini-muffin-agli-spinaci-e-caprino.html"
+        },
+        {
+            "name": "Fasolari ripieni alle erbe",
+            "link": "https://ricette.giallozafferano.it/Fasolari-ripieni-alle-erbe.html"
+        },
+        {
+            "name": "Lecca lecca di peperoncini e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Lecca-lecca-di-peperoncini-e-Grana-Padano.html"
+        },
+        {
+            "name": "Frittelle di mais con chutney di pomodori",
+            "link": "https://ricette.giallozafferano.it/Frittelle-di-mais-con-chutney-di-pomodori.html"
+        },
+        {
+            "name": "Sfoglie alle olive con ricotta e peperoni grigliati",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-ricotta-e-peperoni-grigliati.html"
+        },
+        {
+            "name": "Torta salata con funghi chiodini",
+            "link": "https://ricette.giallozafferano.it/Torta-salata-con-funghi-chiodini.html"
+        },
+        {
+            "name": "Sfoglie classiche con composta di zucca e zenzero",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-composta-di-zucca-e-zenzero.html"
+        },
+        {
+            "name": "Involtini di radicchio con funghi champignon e Bergkase Superiore",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-radicchio-con-funghi-champignon-e-Bergkase-Superiore.html"
+        },
+        {
+            "name": "Polpette di broccoli e salmone",
+            "link": "https://ricette.giallozafferano.it/Polpette-di-broccoli-e-salmone.html"
+        },
+        {
+            "name": "Capesante e pere in sfoglia di Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Capesante-e-pere-in-sfoglia-di-Grana-Padano.html"
+        },
+        {
+            "name": "Bruschette di panettone al gorgonzola e ribes",
+            "link": "https://ricette.giallozafferano.it/Bruschette-di-panettone-al-gorgonzola-e-ribes.html"
+        },
+        {
+            "name": "Caramelle di bris\u00e8 con bresaola robiola e pistacchi",
+            "link": "https://ricette.giallozafferano.it/Caramelle-di-brise-con-bresaola-robiola-e-pistacchi.html"
+        },
+        {
+            "name": "Sfilati con crema al tonno e fiori di cappero",
+            "link": "https://ricette.giallozafferano.it/Sfilati-con-crema-al-tonno-e-fiori-di-cappero.html"
+        },
+        {
+            "name": "Ciambella di pane al formaggio",
+            "link": "https://ricette.giallozafferano.it/Ciambella-di-pane-al-formaggio.html"
+        },
+        {
+            "name": "Sfilati con fonduta al pepe nero",
+            "link": "https://ricette.giallozafferano.it/Sfilati-con-fonduta-al-pepe-nero.html"
+        },
+        {
+            "name": "Lasagne di pancarr\u00e8 con formaggio e rag\u00f9 di verdure",
+            "link": "https://ricette.giallozafferano.it/Lasagne-di-pancarre-con-formaggio-e-ragu-di-verdure.html"
+        },
+        {
+            "name": "Girelle di frolla salata",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-frolla-salata.html"
+        },
+        {
+            "name": "Schiacciate con involtini di San Daniele",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-involtini-di-San-Daniele.html"
+        },
+        {
+            "name": "Sfilati alle olive con porcini e lardo",
+            "link": "https://ricette.giallozafferano.it/Sfilati-alle-olive-con-porcini-e-lardo.html"
+        },
+        {
+            "name": "Spianatine con funghi e fonduta di fontina",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-funghi-e-fonduta-di-fontina.html"
+        },
+        {
+            "name": "Sfoglie con crema obatzda e paprika",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-crema-obatzda-e-paprika.html"
+        },
+        {
+            "name": "Cestini di bris\u00e8 con caprino ed erbette",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-brise-con-caprino-ed-erbette.html"
+        },
+        {
+            "name": "Tortini alle tre carote",
+            "link": "https://ricette.giallozafferano.it/Tortini-alle-tre-carote.html"
+        },
+        {
+            "name": "Sfoglia alle olive con cipolle caramellate",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-alle-olive-con-cipolle-caramellate.html"
+        },
+        {
+            "name": "Tartellette di enkir con patate e cicoria",
+            "link": "https://ricette.giallozafferano.it/Tartellette-di-enkir-con-patate-e-cicoria.html"
+        },
+        {
+            "name": "Ostriche con spumante e cipollotto",
+            "link": "https://ricette.giallozafferano.it/Ostriche-con-spumante-e-cipollotto.html"
+        },
+        {
+            "name": "Sfoglia classica con scampi saltati al balsamico",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-classica-con-scampi-saltati-al-balsamico.html"
+        },
+        {
+            "name": "Cotolette di mela ripiene",
+            "link": "https://ricette.giallozafferano.it/Cotolette-di-mela-ripiene.html"
+        },
+        {
+            "name": "Torta di panettone gastronomico",
+            "link": "https://ricette.giallozafferano.it/Torta-di-panettone-gastronomico.html"
+        },
+        {
+            "name": "Toast di fichi e noci al Bettelmatt",
+            "link": "https://ricette.giallozafferano.it/Toast-di-fichi-e-noci-al-Bettelmatt.html"
+        },
+        {
+            "name": "Friselle con cotechino e lenticchie",
+            "link": "https://ricette.giallozafferano.it/Friselle-con-cotechino-e-lenticchie.html"
+        },
+        {
+            "name": "Schiacciate con cime di rapa piccanti e salsiccia",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-cime-di-rapa-piccanti-e-salsiccia.html"
+        },
+        {
+            "name": "Spianate piccanti",
+            "link": "https://ricette.giallozafferano.it/Spianate-piccanti.html"
+        },
+        {
+            "name": "Blinis con Appenzeller, scalogno caramellato e mela",
+            "link": "https://ricette.giallozafferano.it/Blinis-con-Appenzeller-scalogno-caramellato-e-mela.html"
+        },
+        {
+            "name": "Maki di kiwi e salmone",
+            "link": "https://ricette.giallozafferano.it/Maki-di-kiwi-e-salmone.html"
+        },
+        {
+            "name": "Cannoncini salati con caprino e pancetta",
+            "link": "https://ricette.giallozafferano.it/Cannoncini-salati-con-caprino-e-pancetta.html"
+        },
+        {
+            "name": "Cantucci al Grana Padano e frutta secca",
+            "link": "https://ricette.giallozafferano.it/Cantucci-al-Grana-Padano-e-frutta-secca.html"
+        },
+        {
+            "name": "Lingotto del Mergozzo",
+            "link": "https://ricette.giallozafferano.it/Lingotto-del-Mergozzo.html"
+        },
+        {
+            "name": "Strudel di mele, cipolle e speck",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-mele-cipolle-e-speck.html"
+        },
+        {
+            "name": "Rolls con Grana Padano e verdure",
+            "link": "https://ricette.giallozafferano.it/Rolls-con-Grana-Padano-e-verdure.html"
+        },
+        {
+            "name": "Pizzette veloci al Gorgonzola",
+            "link": "https://ricette.giallozafferano.it/Pizzette-veloci-al-Gorgonzola.html"
+        },
+        {
+            "name": "Involtini di verza su schiacciate",
+            "link": "https://ricette.giallozafferano.it/Involtini-di-verza-su-schiacciate.html"
+        },
+        {
+            "name": "Sfoglie classiche con fave, pancetta e pecorino",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-fave-pancetta-e-pecorino.html"
+        },
+        {
+            "name": "Spianatine con julienne di verdure e Asiago",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-julienne-di-verdure-e-Asiago.html"
+        },
+        {
+            "name": "Sfoglie classiche amatriciana",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-classica-amatriciana.html"
+        },
+        {
+            "name": "Girelle di sfoglia salate con melagrana",
+            "link": "https://ricette.giallozafferano.it/Girelle-di-sfoglia-salate-con-melagrana.html"
+        },
+        {
+            "name": "Sfoglie classiche con purea di fave",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-purea-di-fave.html"
+        },
+        {
+            "name": "Chips di tuberi e maionese allo zenzero",
+            "link": "https://ricette.giallozafferano.it/Chips-di-tuberi-e-maionese-allo-zenzero.html"
+        },
+        {
+            "name": "Cracker allo zafferano",
+            "link": "https://ricette.giallozafferano.it/Cracker-allo-zafferano.html"
+        },
+        {
+            "name": "Sfoglie con luganega croccante e stracchino",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-luganega-croccante-e-stracchino.html"
+        },
+        {
+            "name": "Capesante su crema di carciofi ed erbe aromatiche",
+            "link": "https://ricette.giallozafferano.it/Capesante-su-crema-di-carciofi-ed-erbe-aromatiche.html"
+        },
+        {
+            "name": "Stelline di patate",
+            "link": "https://ricette.giallozafferano.it/Stelline-di-patate.html"
+        },
+        {
+            "name": "Panzerotti con ricotta e cime di rapa",
+            "link": "https://ricette.giallozafferano.it/Panzerotti-con-ricotta-e-cime-di-rapa.html"
+        },
+        {
+            "name": "Sfoglie alle olive con cubetti di frittata",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-cubetti-di-frittata.html"
+        },
+        {
+            "name": "Pizzelle di baccal\u00e0 e cavolfiore",
+            "link": "https://ricette.giallozafferano.it/Pizzelle-di-baccala-e-cavolfiore.html"
+        },
+        {
+            "name": "Strudel di castagne e funghi",
+            "link": "https://ricette.giallozafferano.it/Strudel-di-castagne-e-funghi.html"
+        },
+        {
+            "name": "Sfoglia classica con carciofi e gamberetti",
+            "link": "https://ricette.giallozafferano.it/Sfoglia-classica-con-carciofi-e-gamberetti.html"
+        },
+        {
+            "name": "Sfoglie con crema di lenticchie e cotechino ",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-crema-di-lenticchie-e-cotechino.html"
+        },
+        {
+            "name": "Sfoglie alle olive con cipolle e pomodorini",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-cipolle-e-pomodorini.html"
+        },
+        {
+            "name": "Millefoglie taleggio, salmone e rucola",
+            "link": "https://ricette.giallozafferano.it/Millefoglie-taleggio-salmone-e-rucola.html"
+        },
+        {
+            "name": "Sfoglie classiche con spinaci uvetta e pinoli",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-spinaci-uvetta-e-pinoli.html"
+        },
+        {
+            "name": "Torretta di patate su schiacciata",
+            "link": "https://ricette.giallozafferano.it/Torretta-di-patate-su-schiacciata.html"
+        },
+        {
+            "name": "Cestini di foglie di vite con porcini e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Cestini-di-foglie-di-vite-con-porcini-e-Grana-Padano.html"
+        },
+        {
+            "name": "Crocchette di pane cacio e pepe con coulis di pomodoro",
+            "link": "https://ricette.giallozafferano.it/Crocchette-di-pane-cacio-e-pepe-con-coulis-di-pomodoro.html"
+        },
+        {
+            "name": "Crema salata con funghi e pancetta",
+            "link": "https://ricette.giallozafferano.it/Crema-salata-con-funghi-e-pancetta.html"
+        },
+        {
+            "name": "Sfoglie con speck e cavolo nero",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-speck-e-cavolo-nero.html"
+        },
+        {
+            "name": "Sformatini di pane guttiau al vino rosso e mele",
+            "link": "https://ricette.giallozafferano.it/Sformatini-di-pane-guttiau-al-vino-rosso-e-mele.html"
+        },
+        {
+            "name": "Schiacciate con torretta di verdure e fonduta ",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-torretta-di-verdure-e-fonduta.html"
+        },
+        {
+            "name": "Sfoglie alle olive con polpettine di radicchio e crema di yogurt",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-polpettine-di-radicchio-e-crema-di-yogurt.html"
+        },
+        {
+            "name": "Patate arrosto con mele, arance e Grana Padano",
+            "link": "https://ricette.giallozafferano.it/Patate-arrosto-con-mele-arance-e-Grana-Padano.html"
+        },
+        {
+            "name": "Vol-au-vent alla zucca con T\u00eate de Moine DOP",
+            "link": "https://ricette.giallozafferano.it/Vol-au-vent-alla-zucca-con-Tete-de-Moine-DOP.html"
+        },
+        {
+            "name": "Sfilati al forno con prosciutto ed Emmental",
+            "link": "https://ricette.giallozafferano.it/Sfilati-al-forno-con-prosciutto-ed-Emmental.html"
+        },
+        {
+            "name": "Torcelli con ricotta e Capocollo",
+            "link": "https://ricette.giallozafferano.it/Torcelli-con-ricotta-e-Capocollo.html"
+        },
+        {
+            "name": "Spianatine con crema di asiago, radicchio e pancetta",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-crema-di-asiago-radicchio-e-pancetta.html"
+        },
+        {
+            "name": "Crostone con zucca grigliata e robiola",
+            "link": "https://ricette.giallozafferano.it/Crostone-con-zucca-grigliata-e-robiola.html"
+        },
+        {
+            "name": "Sfoglie con topinambur trifolati",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-topinambur-trifolati.html"
+        },
+        {
+            "name": "Sfoglie classiche con briciole di salsiccia",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-classiche-con-briciole-di-salsiccia.html"
+        },
+        {
+            "name": "Zuppetta di Grana Padano e sedano",
+            "link": "https://ricette.giallozafferano.it/Zuppetta-di-Grana-Padano-e-sedano.html"
+        },
+        {
+            "name": "Miniquiche con pancetta porri e asparagi",
+            "link": "https://ricette.giallozafferano.it/Miniquiche-con-pancetta-porri-e-asparagi.html"
+        },
+        {
+            "name": "Tris di tartellette",
+            "link": "https://ricette.giallozafferano.it/Tris-di-tartellette.html"
+        },
+        {
+            "name": "Spianatine con fave e zucchine trifolate",
+            "link": "https://ricette.giallozafferano.it/Spianatine-con-fave-e-zucchine-trifolate.html"
+        },
+        {
+            "name": "Canap\u00e9 di panettone con robiola e culatello",
+            "link": "https://ricette.giallozafferano.it/Canape-di-panettone-con-robiola-e-culatello.html"
+        },
+        {
+            "name": "Sfoglie con crema di castagne e scamorza",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-con-crema-di-castagne-e-scamorza.html"
+        },
+        {
+            "name": "Torcelli con crema di lenticchie e guanciale",
+            "link": "https://ricette.giallozafferano.it/Torcelli-con-crema-di-lenticchie-e-guanciale.html"
+        },
+        {
+            "name": "Tortino pasqualino",
+            "link": "https://ricette.giallozafferano.it/Tortino-pasqualino.html"
+        },
+        {
+            "name": "Cupcake salati con frosting di patate",
+            "link": "https://ricette.giallozafferano.it/Cupcake-salati-con-frosting-di-patate.html"
+        },
+        {
+            "name": "Sfoglie alle olive con topinambur e raspadura",
+            "link": "https://ricette.giallozafferano.it/Sfoglie-alle-olive-con-topinambur-e-raspadura.html"
+        },
+        {
+            "name": "Schiacciate con insalata di patate all'Asiago",
+            "link": "https://ricette.giallozafferano.it/Schiacciate-con-insalata-di-patate-all-Asiago.html"
+        },
+        {
+            "name": "Sfilati con purea di fave e pancetta",
+            "link": "https://ricette.giallozafferano.it/Sfilati-con-purea-di-fave-e-pancetta.html"
+        },
+        {
+            "name": "Carciofi e salame su sfoglie alle olive",
+            "link": "https://ricette.giallozafferano.it/Carciofi-e-salame-su-sfoglie-alle-olive.html"
+        }
+    ]
+}
